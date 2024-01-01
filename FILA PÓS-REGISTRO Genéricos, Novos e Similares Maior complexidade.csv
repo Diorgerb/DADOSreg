@@ -1,0 +1,526 @@
+
+
+
+1,25/06/2010,25351.015658/0011,546337/10-8,10202,SIMILAR - Alteração moderada de excipiente
+2,25/06/2010,25351.015658/0011,546370/10-0,10170,SIMILAR - Alteração moderada do processo de produção
+3,15/03/2011,25000.024920/9623,215150/11-2,10206,SIMILAR - Alteração maior de excipiente
+4,24/04/2012,25991.014023/78,0342561/12-4,1628,SIMILAR - Alteração de local de fabricação do fármaco
+5,22/06/2012,25351.017986/0134,0519208/12-1,10186,SIMILAR - Alteração de equipamento com diferente desenho e princípio de funcionamento
+6,22/06/2012,25351.017986/0134,0519191/12-2,10202,SIMILAR - Alteração moderada de excipiente
+7,26/06/2012,25351.222093/2002-42,0532378/12-9,1628,SIMILAR - Alteração de local de fabricação do fármaco
+8,26/06/2012,25351.222093/2002-42,0532375/12-4,10206,SIMILAR - Alteração maior de excipiente
+9,18/02/2013,25991.014023/78,0122339/13-9,1628,SIMILAR - Alteração de local de fabricação do fármaco
+10,26/12/2016,25351.615184/2010-50,2659163/16-1,1971,SIMILAR - Atualização de Especificações e Métodos Analíticos
+11,30/09/2017,25351.615184/2010-50,2051217/17-1,10952,RDC 73/2016 - SIMILAR - Exclusão de um teste ou método obsoleto
+12,20/10/2017,25351.615184/2010-50,2137044/17-3,10994,RDC 73/2016 - SIMILAR - Mudança maior de excipiente para formas farmacêuticas sólidas
+13,11/12/2019,25991.002921/78,3420189/19-1,10955,RDC 73/2016 - SIMILAR - Ampliação dos limites de especificação
+14,24/12/2019,25991.002921/78,3573436/19-1,10940,RDC 73/2016 - SIMILAR - Substituição de fabricante do IFA
+15,24/12/2019,25991.002921/78,3573534/19-1,11051,RDC 73/2016 - SIMILAR - Inclusão maior de equipamento
+16,24/12/2019,25991.002921/78,3573538/19-4,11060,RDC 73/2016 - SIMILAR - Inclusão maior de tamanho de lote do medicamento
+17,24/12/2019,25991.002921/78,3573530/19-9,11048,RDC 73/2016 - SIMILAR - Inclusão maior do processo de produção do medicamento
+18,24/12/2019,25991.002921/78,3573541/19-4,10994,RDC 73/2016 - SIMILAR - Mudança maior de excipiente para formas farmacêuticas sólidas
+19,12/01/2023,25991.004907/7931,0032950/23-9,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+20,14/04/2023,25351.484645/2006-38,0376656/23-0,10941,RDC 73/2016 - GENÉRICO - Inclusão de novo fabricante do IFA
+21,14/04/2023,25351.503065/2006-57,0376658/23-6,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+22,28/04/2023,25351.013248/0181,0429385/23-1,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+23,13/06/2023,25351.720488/2017-92,0595594/23-7,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+24,13/06/2023,25351.720488/2017-92,0595612/23-9,10982,RDC 73/2016 - SIMILAR - Mudança maior de excipientes para formas farmacêuticas em solução
+25,13/06/2023,25351.720488/2017-92,0596897/23-6,11051,RDC 73/2016 - SIMILAR - Inclusão maior de equipamento
+26,27/06/2023,25351.178175/2017-31,0653924/23-6,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+27,29/06/2023,25351.462163/2023-28,0666004/23-5,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+28,29/06/2023,25351.711143/2019-18,0666014/23-2,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+29,29/06/2023,25351.674980/2010-62,0666018/23-5,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+30,29/06/2023,25351.711143/2019-18,0666045/23-2,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+31,29/06/2023,25351.711143/2019-18,0666054/23-1,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+32,29/06/2023,25351.711143/2019-18,0666108/23-4,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+33,29/06/2023,25351.722189/2009-89,0668130/23-1,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+34,30/06/2023,25351.098075/2007-48,0671167/23-7,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+35,11/07/2023,25351.310802/2006-70,0713469/23-0,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+36,11/07/2023,25351.187065/2007-86,0713471/23-1,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+37,11/07/2023,25351.310802/2006-70,0713473/23-8,11049,RDC 73/2016 - GENÉRICO - Inclusão maior de equipamento
+38,11/07/2023,25351.187065/2007-86,0713475/23-4,11051,RDC 73/2016 - SIMILAR - Inclusão maior de equipamento
+39,11/07/2023,25351.049089/2009-86,0713477/23-1,11055,RDC 73/2016 - GENÉRICO - Substituição maior de equipamento
+40,11/07/2023,25351.028135/2004-12,0714038/23-0,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+41,11/07/2023,25351.028135/2004-12,0714040/23-1,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+42,13/07/2023,25351.574815/2011-46,0722306/23-4,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+43,13/07/2023,25351.574815/2011-46,0722340/23-4,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+44,13/07/2023,25351.574815/2011-46,0722342/23-1,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+45,14/07/2023,25351.171078/2018-96,0725998/23-1,11037,RDC 73/2016 - GENÉRICO - Substituição de local de fabricação de medicamento estéril
+46,14/07/2023,25351.146227/2010-01,0726002/23-4,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+47,14/07/2023,25000.031363/9689,0728752/23-6,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+48,14/07/2023,25000.031363/9689,0728754/23-2,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+49,14/07/2023,25000.031363/9689,0728756/23-9,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+50,14/07/2023,25000.031363/9689,0728767/23-4,11876,RDC 73/2016 - NOVO - Exclusão crítica de testes ou métodos
+51,17/07/2023,25351.697984/2019-05,0733068/23-5,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+52,17/07/2023,25351.399620/2018-73,0735257/23-3,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+53,18/07/2023,25351.013246/0156,0741258/23-4,10982,RDC 73/2016 - SIMILAR - Mudança maior de excipientes para formas farmacêuticas em solução
+54,18/07/2023,25351.013246/0156,0741262/23-2,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+55,18/07/2023,25351.013246/0156,0741264/23-9,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+56,18/07/2023,25351.013246/0156,0741280/23-1,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+57,19/07/2023,25351.378493/2021-74,0745101/23-6,10948,RDC 73/2016 - NOVO - Inclusão maior de produção do IFA
+58,19/07/2023,25351.172028/2002-69,0747426/23-1,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+59,20/07/2023,25351.087708/2009-30,0750183/23-8,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+60,20/07/2023,25351.089256/2009-22,0750187/23-1,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+61,20/07/2023,25351.191004/2002-17,0752160/23-0,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+62,21/07/2023,25351.097229/2022-13,0756118/23-1,11039,RDC 73/2016 - SIMILAR - Substituição de local de fabricação de medicamento estéril
+63,21/07/2023,25000.010791/9612,0756162/23-8,10994,RDC 73/2016 - SIMILAR - Mudança maior de excipiente para formas farmacêuticas sólidas
+64,21/07/2023,25000.022260/9493,0758504/23-7,11038,RDC 73/2016 - NOVO - Substituição de local de fabricação de medicamento estéril
+65,24/07/2023,25000.018970/9889,0764496/23-5,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+66,24/07/2023,25351.662005/2021-12,0764668/23-2,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+67,24/07/2023,25351.097229/2022-13,0764674/23-7,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+68,24/07/2023,25351.097229/2022-13,0764676/23-3,11057,RDC 73/2016 - SIMILAR - Substituição maior de equipamento
+69,24/07/2023,25351.097229/2022-13,0764678/23-0,11081,RDC 73/2016 - SIMILAR - Mudança maior da forma e dimensões da embalagem primária do medicamento
+70,24/07/2023,25351.097229/2022-13,0764705/23-1,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+71,24/07/2023,25351.097229/2022-13,0764707/23-7,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+72,25/07/2023,25351.171078/2018-96,0768522/23-0,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+73,25/07/2023,25351.171078/2018-96,0768524/23-6,11055,RDC 73/2016 - GENÉRICO - Substituição maior de equipamento
+74,25/07/2023,25351.171078/2018-96,0768614/23-5,11067,RDC 73/2016 - GENÉRICO - Inclusão maior de composição de embalagem primária do medicamento
+75,25/07/2023,25351.171078/2018-96,0771093/23-3,10941,RDC 73/2016 - GENÉRICO - Inclusão de novo fabricante do IFA
+76,25/07/2023,25000.017806/9808,0776730/23-7,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+77,25/07/2023,25000.017806/9808,0776754/23-4,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+78,25/07/2023,25000.055172/9928,0776780/23-3,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+79,26/07/2023,25351.564399/2020-55,0774830/23-2,10941,RDC 73/2016 - GENÉRICO - Inclusão de novo fabricante do IFA
+80,26/07/2023,25351.378493/2021-74,0774863/23-9,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+81,26/07/2023,25351.856030/2018-51,0777106/23-1,11087,RDC 73/2016 - SIMILAR - Mudança relacionada ao diluente
+82,27/07/2023,25351.730857/2013-01,0779778/23-8,10941,RDC 73/2016 - GENÉRICO - Inclusão de novo fabricante do IFA
+83,27/07/2023,25351.041286/2019-42,0780173/23-4,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+84,27/07/2023,25351.334846/2017-84,0782267/23-7,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+85,27/07/2023,25351.660094/2012-47,0786569/23-4,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+86,28/07/2023,25351.014536/2021-96,0786137/23-1,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+87,28/07/2023,25351.706790/2019-08,0786130/23-3,10941,RDC 73/2016 - GENÉRICO - Inclusão de novo fabricante do IFA
+88,28/07/2023,25351.014536/2021-96,0786153/23-2,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+89,28/07/2023,25351.014536/2021-96,0786156/23-7,10945,RDC 73/2016 - NOVO - Alteração maior de produção do IFA
+90,28/07/2023,25351.014536/2021-96,0786160/23-5,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+91,28/07/2023,25351.014536/2021-96,0786162/23-1,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+92,28/07/2023,25351.014536/2021-96,0786164/23-8,10945,RDC 73/2016 - NOVO - Alteração maior de produção do IFA
+93,28/07/2023,25351.765318/2011-53,0786168/23-1,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+94,28/07/2023,25351.144258/2019-86,0786218/23-1,10941,RDC 73/2016 - GENÉRICO - Inclusão de novo fabricante do IFA
+95,28/07/2023,25351.325137/2013-84,0786280/23-6,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+96,28/07/2023,25351.323730/2013-43,0786395/23-1,10941,RDC 73/2016 - GENÉRICO - Inclusão de novo fabricante do IFA
+97,28/07/2023,25351.627511/2019-32,0786519/23-8,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+98,28/07/2023,25351.681652/2015-77,0786540/23-6,10942,RDC 73/2016 - NOVO - Inclusão de novo fabricante do IFA
+99,28/07/2023,25351.325024/2013-71,0786626/23-7,10940,RDC 73/2016 - SIMILAR - Substituição de fabricante do IFA
+100,28/07/2023,25351.740784/2020-13,0788180/23-1,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+101,28/07/2023,25351.013972/2021-48,0788520/23-2,10941,RDC 73/2016 - GENÉRICO - Inclusão de novo fabricante do IFA
+102,28/07/2023,25351.299730/2005-11,0788522/23-9,10946,RDC 73/2016 - SIMILAR - Alteração maior de produção do IFA
+103,28/07/2023,25351.299730/2005-11,0788545/23-8,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+104,28/07/2023,25351.041905/2006-84,0788557/23-1,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+105,28/07/2023,25351.041905/2006-84,0788559/23-8,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+106,28/07/2023,25351.627511/2019-32,0788562/23-8,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+107,28/07/2023,25351.627511/2019-32,0788564/23-4,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+108,28/07/2023,25351.299730/2005-11,0788566/23-1,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+109,28/07/2023,25351.299730/2005-11,0788568/23-7,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+110,28/07/2023,25351.299730/2005-11,0788570/23-9,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+111,28/07/2023,25351.299730/2005-11,0788572/23-5,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+112,28/07/2023,25351.299730/2005-11,0788582/23-2,11877,RDC 73/2016 - SIMILAR - Exclusão crítica de testes ou métodos
+113,28/07/2023,25351.299730/2005-11,0788584/23-9,11877,RDC 73/2016 - SIMILAR - Exclusão crítica de testes ou métodos
+114,28/07/2023,25351.435815/2021-90,0795100/23-1,10941,RDC 73/2016 - GENÉRICO - Inclusão de novo fabricante do IFA
+115,28/07/2023,25351.435815/2021-90,0795102/23-7,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+116,28/07/2023,25000.017636/9791,0793134/23-4,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+117,28/07/2023,25000.017636/9791,0793116/23-6,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+118,31/07/2023,25351.328987/2021-16,0792459/23-3,10941,RDC 73/2016 - GENÉRICO - Inclusão de novo fabricante do IFA
+119,31/07/2023,25351.011985/2019-68,0792617/23-1,10938,RDC 73/2016 - GENÉRICO - Substituição de fabricante do IFA
+120,31/07/2023,25351.860565/2018-27,0792738/23-0,10938,RDC 73/2016 - GENÉRICO - Substituição de fabricante do IFA
+121,31/07/2023,25351.860565/2018-27,0792747/23-9,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+122,31/07/2023,25351.011985/2019-68,0793218/23-9,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+123,31/07/2023,25000.037404/9687,0794671/23-6,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+124,31/07/2023,25000.037404/9687,0794661/23-9,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+125,31/07/2023,25000.037404/9687,0794680/23-5,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+126,31/07/2023,25000.037404/9687,0794932/23-4,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+127,31/07/2023,25351.323730/2013-43,0795007/23-1,10941,RDC 73/2016 - GENÉRICO - Inclusão de novo fabricante do IFA
+128,31/07/2023,25001.004766/86,0795009/23-8,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+129,31/07/2023,25000.023301/9676,0795011/23-0,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+130,31/07/2023,25351.325137/2013-84,0795013/23-6,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+131,31/07/2023,25000.037404/9687,0795015/23-2,10982,RDC 73/2016 - SIMILAR - Mudança maior de excipientes para formas farmacêuticas em solução
+132,31/07/2023,25351.325024/2013-71,0795021/23-7,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+133,31/07/2023,25351.325024/2013-71,0795023/23-3,11057,RDC 73/2016 - SIMILAR - Substituição maior de equipamento
+134,31/07/2023,25000.037404/9687,0795045/23-4,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+135,31/07/2023,25001.004766/86,0795049/23-7,11877,RDC 73/2016 - SIMILAR - Exclusão crítica de testes ou métodos
+136,31/07/2023,25001.004766/86,0795047/23-1,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+137,01/08/2023,25000.006019/9902,0801608/23-9,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+138,02/08/2023,25992.015227/62,0803773/23-6,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+139,02/08/2023,25351.428759/2014-76,0811319/23-0,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+140,03/08/2023,25000.010791/9612,0809701/23-1,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+141,03/08/2023,25351.022571/2004-88,0809776/23-3,11747,RDC 73/2016 - NOVO - Mudança do DIFA sem CADIFA (maior com migração para CADIFA)
+142,03/08/2023,25992.016553/74,0815376/23-1,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+143,04/08/2023,25351.208462/2020-76,0815384/23-1,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+144,04/08/2023,25351.188595/2019-85,0815411/23-2,11040,RDC 73/2016 - GENÉRICO - Inclusão de local de fabricação de medicamento estéril
+145,04/08/2023,25351.188595/2019-85,0815419/23-8,11046,RDC 73/2016 - GENÉRICO - Inclusão maior do processo de produção do medicamento
+146,04/08/2023,25351.188595/2019-85,0815401/23-5,11049,RDC 73/2016 - GENÉRICO - Inclusão maior de equipamento
+147,04/08/2023,25000.004661/9703,0817109/23-2,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+148,04/08/2023,25000.004661/9703,0817111/23-4,10943,RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA
+149,07/08/2023,25351.022367/2003-86,0820936/23-7,11048,RDC 73/2016 - SIMILAR - Inclusão maior do processo de produção do medicamento
+150,07/08/2023,25351.022367/2003-86,0820944/23-8,11746,RDC 73/2016 - SIMILAR - Mudança do DIFA sem CADIFA (maior com migração para CADIFA)
+151,07/08/2023,25351.268849/2015-21,0820956/23-1,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+152,07/08/2023,25351.022367/2003-86,0820958/23-8,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+153,07/08/2023,25351.022367/2003-86,0820960/23-0,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+154,08/08/2023,25351.144258/2019-86,0828166/23-1,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+155,09/08/2023,25351.142875/2020-81,0833323/23-8,11051,RDC 73/2016 - SIMILAR - Inclusão maior de equipamento
+156,09/08/2023,25351.637602/2009-03,0833331/23-9,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+157,10/08/2023,25351.325150/2013-24,0838761/23-3,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+158,10/08/2023,25351.325150/2013-24,0838763/23-0,11057,RDC 73/2016 - SIMILAR - Substituição maior de equipamento
+159,11/08/2023,25351.610233/2015-61,0844123/23-5,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+160,15/08/2023,25351.548851/2015-74,0856211/23-3,11044,RDC 73/2016 - NOVO - Alteração maior do processo de produção do medicamento
+161,21/08/2023,25351.687102/2011-50,0876100/23-1,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+162,28/08/2023,25351.460921/2005-91,0905349/23-2,11040,RDC 73/2016 - GENÉRICO - Inclusão de local de fabricação de medicamento estéril
+163,28/08/2023,25351.460921/2005-91,0905661/23-1,11049,RDC 73/2016 - GENÉRICO - Inclusão maior de equipamento
+164,28/08/2023,25351.460921/2005-91,0905671/23-8,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+165,28/08/2023,25351.360028/2005-67,0905703/23-0,11044,RDC 73/2016 - NOVO - Alteração maior do processo de produção do medicamento
+166,28/08/2023,25351.534857/2011-18,0907865/23-7,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+167,28/08/2023,25351.262055/2004-94,0907867/23-3,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+168,29/08/2023,25001.003216/87,0910976/23-5,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+169,31/08/2023,25351.024393/2021-21,0925290/23-8,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+170,31/08/2023,25351.290146/2004-10,0925695/23-4,10992,RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas
+171,31/08/2023,25351.290146/2004-10,0926135/23-4,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+172,31/08/2023,25351.290146/2004-10,0927131/23-7,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+173,31/08/2023,25351.290146/2004-10,0927139/23-2,11052,RDC 73/2016 - GENÉRICO - Exclusão maior de equipamento
+174,31/08/2023,25351.083831/2010-94,0927259/23-3,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+175,31/08/2023,25351.083831/2010-94,0927265/23-8,11031,RDC 73/2016 - GENÉRICO - Substituição maior de local de fabricação de medicamento de liberação modificada
+176,31/08/2023,25351.083831/2010-94,0927275/23-5,10992,RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas
+177,01/09/2023,25351.011374/2006-03,0931781/23-3,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+178,04/09/2023,25351.015521/2015-24,0937573/23-2,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+179,04/09/2023,25351.015521/2015-24,0937576/23-7,11049,RDC 73/2016 - GENÉRICO - Inclusão maior de equipamento
+180,04/09/2023,25351.015521/2015-24,0937578/23-3,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+181,05/09/2023,25351.162067/2002-58,0945211/23-7,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+182,06/09/2023,25351.031704/2004-15,0949904/23-1,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+183,11/09/2023,25351.898868/2020-37,0960650/23-5,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+184,11/09/2023,25351.534978/2011-89,0960658/23-1,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+185,11/09/2023,25351.541742/2011-38,0960660/23-2,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+186,11/09/2023,25351.555095/2011-31,0960662/23-9,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+187,12/09/2023,25351.593976/2016-05,0966300/23-2,11040,RDC 73/2016 - GENÉRICO - Inclusão de local de fabricação de medicamento estéril
+188,12/09/2023,25351.593976/2016-05,0966302/23-9,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+189,12/09/2023,25351.593976/2016-05,0966304/23-5,11055,RDC 73/2016 - GENÉRICO - Substituição maior de equipamento
+190,12/09/2023,25351.162067/2002-58,0966306/23-1,11068,RDC 73/2016 - NOVO - Inclusão maior de composição de embalagem primária do medicamento
+191,12/09/2023,25351.593976/2016-05,0966308/23-8,11079,RDC 73/2016 - GENÉRICO - Mudança maior da forma e dimensões da embalagem primária do medicamento
+192,12/09/2023,25351.883713/2016-35,0966319/23-3,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+193,14/09/2023,25351.192679/2006-07,0976757/23-6,11754,RDC 73/2016 - GENÉRICO - Inclusão de detentor de CADIFA (maior)
+194,15/09/2023,25351.031704/2004-15,0982315/23-8,11035,RDC 73/2016 - NOVO - Inclusão maior de local de fabricação de medicamento de liberação modificada
+195,18/09/2023,25351.325139/2013-32,0988228/23-6,11057,RDC 73/2016 - SIMILAR - Substituição maior de equipamento
+196,18/09/2023,25351.668524/2012-65,0988232/23-4,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+197,19/09/2023,25351.325139/2013-32,0991472/23-2,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+198,19/09/2023,25351.058806/2013-95,0993757/23-9,11797,PRODUTO BIOLÓGICO - Mudança pós-registro relacionada a insumo farmacêutico ativo sintético
+199,20/09/2023,25351.261673/2008-41,0998114/23-4,11060,RDC 73/2016 - SIMILAR - Inclusão maior de tamanho de lote do medicamento
+200,20/09/2023,25351.212375/2008-27,0998081/23-4,11058,RDC 73/2016 - GENÉRICO - Inclusão maior de tamanho de lote do medicamento
+201,21/09/2023,25992.005682/52,1003181/23-2,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+202,21/09/2023,25992.005682/52,1003254/23-1,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+203,22/09/2023,25351.099763/2017-24,1009211/23-1,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+204,27/09/2023,25351.762707/2021-97,1027837/23-1,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+205,28/09/2023,25351.101091/2011-45,1032924/23-2,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+206,28/09/2023,25351.101091/2011-45,1032927/23-7,10993,RDC 73/2016 - NOVO - Mudança maior de excipiente para formas farmacêuticas sólidas
+207,28/09/2023,25351.799163/2018-13,1033269/23-3,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+208,28/09/2023,25351.799163/2018-13,1033271/23-5,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+209,28/09/2023,25351.243637/2007-14,1033273/23-1,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+210,28/09/2023,25351.500821/2008-58,1038768/23-4,11040,RDC 73/2016 - GENÉRICO - Inclusão de local de fabricação de medicamento estéril
+211,28/09/2023,25351.500821/2008-58,1038770/23-6,11079,RDC 73/2016 - GENÉRICO - Mudança maior da forma e dimensões da embalagem primária do medicamento
+212,28/09/2023,25351.500821/2008-58,1038699/23-8,11726,RDC 73/2016 - GENÉRICO - Substituição de novo DIFA sem CADIFA
+213,28/09/2023,25351.566320/2008-34,1038537/23-1,11042,RDC 73/2016 - SIMILAR - Inclusão de local de fabricação de medicamento estéril
+214,28/09/2023,25351.566320/2008-34,1038447/23-2,11081,RDC 73/2016 - SIMILAR - Mudança maior da forma e dimensões da embalagem primária do medicamento
+215,28/09/2023,25351.566320/2008-34,1038385/23-9,11727,RDC 73/2016 - SIMILAR - Substituição de novo DIFA sem CADIFA
+216,29/09/2023,25351.173248/2002-18,1036448/23-0,11058,RDC 73/2016 - GENÉRICO - Inclusão maior de tamanho de lote do medicamento
+217,29/09/2023,25351.045597/2003-13,1036574/23-5,11058,RDC 73/2016 - GENÉRICO - Inclusão maior de tamanho de lote do medicamento
+218,29/09/2023,25351.862195/2016-00,1036772/23-1,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+219,29/09/2023,25351.862195/2016-00,1036779/23-9,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+220,29/09/2023,25351.862195/2016-00,1036785/23-3,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+221,29/09/2023,25351.862195/2016-00,1036790/23-0,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+222,29/09/2023,25351.862195/2016-00,1036793/23-4,11031,RDC 73/2016 - GENÉRICO - Substituição maior de local de fabricação de medicamento de liberação modificada
+223,29/09/2023,25351.207114/2002-08,1036817/23-5,10992,RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas
+224,29/09/2023,25351.207114/2002-08,1036829/23-9,10974,RDC 73/2016 - GENÉRICO - Exclusão maior de sulco de medicamento de liberação modificada
+225,29/09/2023,25351.207114/2002-08,1036837/23-0,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+226,29/09/2023,25001.020020/84,1036842/23-6,11744,RDC 73/2016 - NOVO - Mudança do DIFA sem CADIFA (maior)
+227,29/09/2023,25351.207114/2002-08,1036844/23-2,11049,RDC 73/2016 - GENÉRICO - Inclusão maior de equipamento
+228,29/09/2023,25351.207114/2002-08,1036849/23-3,11058,RDC 73/2016 - GENÉRICO - Inclusão maior de tamanho de lote do medicamento
+229,29/09/2023,25351.033184/2004-77,1036896/23-5,10980,RDC 73/2016 - GENÉRICO - Mudança maior de excipientes para formas farmacêuticas em solução
+230,29/09/2023,25351.033184/2004-77,1036885/23-0,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+231,29/09/2023,25351.033184/2004-77,1036913/23-9,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+232,29/09/2023,25001.020020/84,1037058/23-7,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+233,29/09/2023,25351.441071/2019-28,1038265/23-8,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+234,29/09/2023,25351.067217/2003-00,1038353/23-1,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+235,29/09/2023,25351.067217/2003-00,1038379/23-4,10982,RDC 73/2016 - SIMILAR - Mudança maior de excipientes para formas farmacêuticas em solução
+236,29/09/2023,25000.041433/9699,1038391/23-3,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+237,29/09/2023,25351.067217/2003-00,1038397/23-2,10982,RDC 73/2016 - SIMILAR - Mudança maior de excipientes para formas farmacêuticas em solução
+238,29/09/2023,25351.067217/2003-00,1038411/23-1,11081,RDC 73/2016 - SIMILAR - Mudança maior da forma e dimensões da embalagem primária do medicamento
+239,29/09/2023,25351.067217/2003-00,1038415/23-4,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+240,29/09/2023,25351.683806/2018-16,1038420/23-1,10980,RDC 73/2016 - GENÉRICO - Mudança maior de excipientes para formas farmacêuticas em solução
+241,29/09/2023,25351.683806/2018-16,1038410/23-3,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+242,29/09/2023,25351.171058/2018-15,1038623/23-8,11037,RDC 73/2016 - GENÉRICO - Substituição de local de fabricação de medicamento estéril
+243,29/09/2023,25000.031256/9679,1038621/23-1,10981,RDC 73/2016 - NOVO - Mudança maior de excipientes para formas farmacêuticas em solução
+244,29/09/2023,25351.171058/2018-15,1038627/23-1,11055,RDC 73/2016 - GENÉRICO - Substituição maior de equipamento
+245,29/09/2023,25000.031256/9679,1038625/23-4,11044,RDC 73/2016 - NOVO - Alteração maior do processo de produção do medicamento
+246,29/09/2023,25351.171058/2018-15,1038630/23-1,11067,RDC 73/2016 - GENÉRICO - Inclusão maior de composição de embalagem primária do medicamento
+247,29/09/2023,25000.031256/9679,1038637/23-8,11756,RDC 73/2016 - NOVO - Inclusão de detentor de CADIFA (maior)
+248,29/09/2023,25000.031256/9679,1038668/23-8,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+249,29/09/2023,25000.031256/9679,1038670/23-0,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+250,29/09/2023,25000.031256/9679,1038676/23-9,11876,RDC 73/2016 - NOVO - Exclusão crítica de testes ou métodos
+251,29/09/2023,25000.031256/9679,1038678/23-5,11876,RDC 73/2016 - NOVO - Exclusão crítica de testes ou métodos
+252,02/10/2023,25000.016098/88,1042981/23-6,11727,RDC 73/2016 - SIMILAR - Substituição de novo DIFA sem CADIFA
+253,02/10/2023,25000.016098/88,1042986/23-7,10988,RDC 73/2016 - SIMILAR - Mudança maior de excipientes para formas farmacêuticas semissólidas
+254,02/10/2023,25351.062822/2006-29,1042999/23-9,11069,RDC 73/2016 - SIMILAR - Inclusão maior de composição de embalagem primária do medicamento
+255,02/10/2023,25351.062822/2006-29,1043013/23-0,11057,RDC 73/2016 - SIMILAR - Substituição maior de equipamento
+256,02/10/2023,25351.062822/2006-29,1043018/23-1,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+257,02/10/2023,25351.866755/2021-53,1043626/23-0,11724,RDC 73/2016 - SIMILAR - Inclusão de novo DIFA sem CADIFA
+258,02/10/2023,25351.866755/2021-53,1044655/23-9,11042,RDC 73/2016 - SIMILAR - Inclusão de local de fabricação de medicamento estéril
+259,02/10/2023,25351.028904/2004-82,1044771/23-7,11726,RDC 73/2016 - GENÉRICO - Substituição de novo DIFA sem CADIFA
+260,02/10/2023,25351.028904/2004-82,1044776/23-8,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+261,02/10/2023,25351.028904/2004-82,1044779/23-2,10980,RDC 73/2016 - GENÉRICO - Mudança maior de excipientes para formas farmacêuticas em solução
+262,02/10/2023,25351.028904/2004-82,1044781/23-4,11040,RDC 73/2016 - GENÉRICO - Inclusão de local de fabricação de medicamento estéril
+263,02/10/2023,25351.028904/2004-82,1044784/23-9,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+264,02/10/2023,25351.028904/2004-82,1044786/23-5,11079,RDC 73/2016 - GENÉRICO - Mudança maior da forma e dimensões da embalagem primária do medicamento
+265,29/09/2023,25351.693760/2011-51,1052312/23-0,11070,RDC 73/2016 - GENÉRICO - Alteração maior de composição de embalagem primária do medicamento
+266,29/09/2023,25351.576640/2011-22,1052540/23-8,11070,RDC 73/2016 - GENÉRICO - Alteração maior de composição de embalagem primária do medicamento
+267,29/09/2023,25351.034111/2013-21,1048449/23-3,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+268,29/09/2023,25351.693760/2011-51,1052289/23-1,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+269,29/09/2023,25351.576640/2011-22,1052529/23-7,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+270,29/09/2023,25351.034111/2013-21,1048453/23-1,11058,RDC 73/2016 - GENÉRICO - Inclusão maior de tamanho de lote do medicamento
+271,29/09/2023,25351.576640/2011-22,1052552/23-1,11046,RDC 73/2016 - GENÉRICO - Inclusão maior do processo de produção do medicamento
+272,29/09/2023,25351.693760/2011-51,1052228/23-0,11745,RDC 73/2016 - GENÉRICO - Mudança do DIFA sem CADIFA (maior com migração para CADIFA)
+273,29/09/2023,25351.034111/2013-21,1048436/23-1,11742,RDC 73/2016 - GENÉRICO - Mudança do DIFA sem CADIFA (maior)
+274,29/09/2023,25351.693760/2011-51,1052303/23-1,11079,RDC 73/2016 - GENÉRICO - Mudança maior da forma e dimensões da embalagem primária do medicamento
+275,29/09/2023,25351.576640/2011-22,1052574/23-2,11079,RDC 73/2016 - GENÉRICO - Mudança maior da forma e dimensões da embalagem primária do medicamento
+276,29/09/2023,25351.034111/2013-21,1048447/23-7,10992,RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas
+277,29/09/2023,25351.693760/2011-51,1052298/23-1,10980,RDC 73/2016 - GENÉRICO - Mudança maior de excipientes para formas farmacêuticas em solução
+278,29/09/2023,25351.576640/2011-22,1052525/23-4,10980,RDC 73/2016 - GENÉRICO - Mudança maior de excipientes para formas farmacêuticas em solução
+279,29/09/2023,25351.034111/2013-21,1048416/23-7,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+280,29/09/2023,25351.034111/2013-21,1048418/23-3,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+281,29/09/2023,25351.693760/2011-51,1052243/23-3,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+282,29/09/2023,25351.693760/2011-51,1052280/23-8,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+283,29/09/2023,25351.576640/2011-22,1052482/23-7,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+284,29/09/2023,25351.576640/2011-22,1052518/23-1,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+285,29/09/2023,25351.693760/2011-51,1052218/23-2,11726,RDC 73/2016 - GENÉRICO - Substituição de novo DIFA sem CADIFA
+286,29/09/2023,25351.576640/2011-22,1052502/23-5,11726,RDC 73/2016 - GENÉRICO - Substituição de novo DIFA sem CADIFA
+287,29/09/2023,25351.034111/2013-21,1048421/23-3,11055,RDC 73/2016 - GENÉRICO - Substituição maior de equipamento
+288,29/09/2023,25351.538537/2011-43,1052404/23-5,11072,RDC 73/2016 - SIMILAR - Alteração maior de composição de embalagem primária do medicamento
+289,29/09/2023,25351.538537/2011-43,1052412/23-6,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+290,29/09/2023,25351.538537/2011-43,1052336/23-7,11743,RDC 73/2016 - SIMILAR - Mudança do DIFA sem CADIFA (maior)
+291,29/09/2023,25351.538537/2011-43,1052424/23-0,11081,RDC 73/2016 - SIMILAR - Mudança maior da forma e dimensões da embalagem primária do medicamento
+292,29/09/2023,25351.538537/2011-43,1052384/23-7,10982,RDC 73/2016 - SIMILAR - Mudança maior de excipientes para formas farmacêuticas em solução
+293,02/10/2023,25351.029908/0047,1048878/23-2,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+294,29/09/2023,25351.538537/2011-43,1052372/23-3,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+295,29/09/2023,25351.538537/2011-43,1052363/23-4,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+296,29/09/2023,25351.538537/2011-43,1052380/23-4,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+297,29/09/2023,25351.538537/2011-43,1052310/23-3,11727,RDC 73/2016 - SIMILAR - Substituição de novo DIFA sem CADIFA
+298,02/10/2023,25351.029908/0047,1048917/23-7,11057,RDC 73/2016 - SIMILAR - Substituição maior de equipamento
+299,02/10/2023,25351.029908/0047,1048683/23-6,10206,SIMILAR - Alteração maior de excipiente
+300,02/10/2023,25351.029908/0047,1048914/23-2,10178,SIMILAR - Alteração maior do processo de produção
+301,03/10/2023,25351.782561/2008-17,1048482/23-5,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+302,29/09/2023,25351.733725/2009-12,1054117/23-9,11072,RDC 73/2016 - SIMILAR - Alteração maior de composição de embalagem primária do medicamento
+303,29/09/2023,25351.733725/2009-12,1054100/23-4,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+304,29/09/2023,25351.733725/2009-12,1054119/23-5,11081,RDC 73/2016 - SIMILAR - Mudança maior da forma e dimensões da embalagem primária do medicamento
+305,29/09/2023,25351.733725/2009-12,1054097/23-1,10982,RDC 73/2016 - SIMILAR - Mudança maior de excipientes para formas farmacêuticas em solução
+306,29/09/2023,25351.733725/2009-12,1054112/23-8,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+307,29/09/2023,25351.733725/2009-12,1054114/23-4,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+308,29/09/2023,25351.733725/2009-12,1054088/23-1,11727,RDC 73/2016 - SIMILAR - Substituição de novo DIFA sem CADIFA
+309,29/09/2023,25351.733725/2009-12,1054090/23-3,11727,RDC 73/2016 - SIMILAR - Substituição de novo DIFA sem CADIFA
+310,04/10/2023,25351.534952/2011-81,1056360/23-1,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+311,04/10/2023,25351.534953/2011-16,1056362/23-8,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+312,04/10/2023,25351.268908/2015-30,1056364/23-4,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+313,04/10/2023,25351.261829/2015-97,1056366/23-1,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+314,04/10/2023,25351.566171/2011-93,1056368/23-7,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+315,02/10/2023,25351.555336/2018-93,1061670/23-5,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+316,06/10/2023,25001.008925/83,1067624/23-4,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+317,09/10/2023,25351.720586/2017-20,1072129/23-1,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+318,09/10/2023,25351.720586/2017-20,1072193/23-2,11051,RDC 73/2016 - SIMILAR - Inclusão maior de equipamento
+319,09/10/2023,25351.373722/2021-64,1073685/23-9,11059,RDC 73/2016 - NOVO - Inclusão maior de tamanho de lote do medicamento
+320,09/10/2023,25351.880657/2021-29,1081863/23-4,11041,RDC 73/2016 - NOVO - Inclusão de local de fabricação de medicamento estéril
+321,10/10/2023,25351.537526/2013-21,1078241/23-9,11079,RDC 73/2016 - GENÉRICO - Mudança maior da forma e dimensões da embalagem primária do medicamento
+322,10/10/2023,25351.537526/2013-21,1078260/23-5,11082,RDC 73/2016 - GENÉRICO - Mudança maior de embalagem secundária ou envoltório intermediário do medicamento
+323,10/10/2023,25351.268908/2015-30,1085677/23-3,11071,RDC 73/2016 - NOVO - Alteração maior de composição de embalagem primária do medicamento
+324,10/10/2023,25351.268908/2015-30,1085661/23-7,11071,RDC 73/2016 - NOVO - Alteração maior de composição de embalagem primária do medicamento
+325,10/10/2023,25351.268908/2015-30,1085675/23-7,11044,RDC 73/2016 - NOVO - Alteração maior do processo de produção do medicamento
+326,10/10/2023,25351.268908/2015-30,1085666/23-8,11080,RDC 73/2016 - NOVO - Mudança maior da forma e dimensões da embalagem primária do medicamento
+327,10/10/2023,25351.268908/2015-30,1085629/23-3,10993,RDC 73/2016 - NOVO - Mudança maior de excipiente para formas farmacêuticas sólidas
+328,10/10/2023,25351.268908/2015-30,1085570/23-0,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+329,10/10/2023,25351.268908/2015-30,1085627/23-7,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+330,10/10/2023,25351.268908/2015-30,1085654/23-4,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+331,10/10/2023,25351.268908/2015-30,1085567/23-0,11728,RDC 73/2016 - NOVO - Substituição de novo DIFA sem CADIFA
+332,11/10/2023,25351.373722/2021-64,1083321/23-8,11047,RDC 73/2016 - NOVO - Inclusão maior do processo de produção do medicamento
+333,11/10/2023,25351.170176/2002-49,1083790/23-6,11797,PRODUTO BIOLÓGICO - Mudança pós-registro relacionada a insumo farmacêutico ativo sintético
+334,11/10/2023,25351.267526/2021-51,1085366/23-9,10981,RDC 73/2016 - NOVO - Mudança maior de excipientes para formas farmacêuticas em solução
+335,11/10/2023,25351.267526/2021-51,1085368/23-5,11044,RDC 73/2016 - NOVO - Alteração maior do processo de produção do medicamento
+336,11/10/2023,25351.267526/2021-51,1085378/23-2,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+337,11/10/2023,25351.267526/2021-51,1085390/23-1,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+338,11/10/2023,25351.267526/2021-51,1085394/23-4,11876,RDC 73/2016 - NOVO - Exclusão crítica de testes ou métodos
+339,11/10/2023,25351.267526/2021-51,1085392/23-8,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+340,15/10/2023,25351.537526/2013-21,1092868/23-5,11049,RDC 73/2016 - GENÉRICO - Inclusão maior de equipamento
+341,15/10/2023,25351.537526/2013-21,1092870/23-7,11079,RDC 73/2016 - GENÉRICO - Mudança maior da forma e dimensões da embalagem primária do medicamento
+342,15/10/2023,25351.537526/2013-21,1092872/23-3,11082,RDC 73/2016 - GENÉRICO - Mudança maior de embalagem secundária ou envoltório intermediário do medicamento
+343,17/10/2023,25351.660118/2012-13,1109603/23-9,11044,RDC 73/2016 - NOVO - Alteração maior do processo de produção do medicamento
+344,17/10/2023,25000.033989/9611,1109900/23-3,11042,RDC 73/2016 - SIMILAR - Inclusão de local de fabricação de medicamento estéril
+345,17/10/2023,25351.167584/2014-91,1109906/23-2,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+346,17/10/2023,25351.626330/2008-36,1116319/23-4,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+347,20/10/2023,25351.308043/2013-03,1135095/23-4,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+348,20/10/2023,25351.652320/2011-88,1135627/23-8,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+349,20/10/2023,25351.762354/2011-12,1135665/23-1,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+350,23/10/2023,25991.002612/81,1143087/23-7,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+351,24/10/2023,25351.016643/0071,1154508/23-9,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+352,24/10/2023,25351.022491/2003-41,1154726/23-0,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+353,24/10/2023,25351.602773/2020-28,1154728/23-6,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+354,25/10/2023,25351.012984/2004-54,1160974/23-5,11068,RDC 73/2016 - NOVO - Inclusão maior de composição de embalagem primária do medicamento
+355,25/10/2023,25351.220653/2020-14,1163173/23-2,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+356,26/10/2023,25991.002612/81,1168786/23-0,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+357,27/10/2023,25351.194444/2012-51,1176023/23-1,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+358,27/10/2023,25351.204722/2014-82,1176031/23-1,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+359,30/10/2023,25351.163804/2002-30,1184972/23-0,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+360,30/10/2023,25351.433647/2008-21,1184996/23-7,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+361,30/10/2023,25351.871279/2008-13,1186987/23-9,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+362,30/10/2023,25351.602773/2020-28,1187105/23-9,11044,RDC 73/2016 - NOVO - Alteração maior do processo de produção do medicamento
+363,31/10/2023,25351.563046/2010-05,1190662/23-6,11058,RDC 73/2016 - GENÉRICO - Inclusão maior de tamanho de lote do medicamento
+364,31/10/2023,25351.447535/2012-63,1190815/23-7,11724,RDC 73/2016 - SIMILAR - Inclusão de novo DIFA sem CADIFA
+365,31/10/2023,25351.160931/2010-06,1190964/23-1,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+366,31/10/2023,25351.134033/2011-64,1190980/23-3,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+367,31/10/2023,25351.194444/2012-51,1192033/23-5,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+368,31/10/2023,25351.401105/2022-47,1192035/23-1,11724,RDC 73/2016 - SIMILAR - Inclusão de novo DIFA sem CADIFA
+369,31/10/2023,25351.316283/2018-97,1192037/23-8,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+370,31/10/2023,25351.194444/2012-51,1192055/23-6,11875,RDC 73/2016 - GENÉRICO - Exclusão crítica de testes ou métodos
+371,31/10/2023,25351.194444/2012-51,1192057/23-2,11875,RDC 73/2016 - GENÉRICO - Exclusão crítica de testes ou métodos
+372,01/11/2023,25351.518169/2012-03,1215227/23-7,11070,RDC 73/2016 - GENÉRICO - Alteração maior de composição de embalagem primária do medicamento
+373,01/11/2023,25351.106762/2006-63,1215162/23-9,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+374,01/11/2023,25351.518169/2012-03,1215229/23-3,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+375,01/11/2023,25351.518169/2012-03,1215232/23-3,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+376,01/11/2023,25351.037740/0105,1215312/23-5,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+377,01/11/2023,25351.106762/2006-63,1215182/23-3,11079,RDC 73/2016 - GENÉRICO - Mudança maior da forma e dimensões da embalagem primária do medicamento
+378,01/11/2023,25351.106762/2006-63,1215177/23-7,10992,RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas
+379,01/11/2023,25351.518169/2012-03,1215261/23-7,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+380,01/11/2023,25351.037740/0105,1215357/23-5,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+381,01/11/2023,25351.037740/0105,1215361/23-3,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+382,01/11/2023,25351.037740/0105,1215369/23-9,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+383,01/11/2023,25351.106762/2006-63,1215188/23-2,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+384,07/11/2023,25351.465264/2020-16,1222249/23-6,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+385,08/11/2023,25992.011749/73,1228719/23-9,11035,RDC 73/2016 - NOVO - Inclusão maior de local de fabricação de medicamento de liberação modificada
+386,08/11/2023,25351.162067/2002-58,1228723/23-7,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+387,08/11/2023,25351.374539/2020-03,1228721/23-1,11081,RDC 73/2016 - SIMILAR - Mudança maior da forma e dimensões da embalagem primária do medicamento
+388,08/11/2023,25351.538561/2011-34,1228738/23-5,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+389,08/11/2023,25351.555623/2011-14,1228740/23-7,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+390,09/11/2023,25991.003699/80,1233090/23-6,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+391,10/11/2023,25000.014937/9357,1252401/23-8,11083,RDC 73/2016 - NOVO - Mudança maior de embalagem secundária ou envoltório intermediário do medicamento
+392,13/11/2023,25351.758746/2008-61,1250032/23-1,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+393,13/11/2023,25351.720503/2017-01,1250039/23-9,11051,RDC 73/2016 - SIMILAR - Inclusão maior de equipamento
+394,13/11/2023,25351.720503/2017-01,1250046/23-1,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+395,13/11/2023,25351.720503/2017-01,1250051/23-8,10982,RDC 73/2016 - SIMILAR - Mudança maior de excipientes para formas farmacêuticas em solução
+396,13/11/2023,25351.470005/2008-11,1259515/23-2,11049,RDC 73/2016 - GENÉRICO - Inclusão maior de equipamento
+397,14/11/2023,25351.843463/2008-81,1256515/23-6,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+398,16/11/2023,25000.028434/9657,1269411/23-8,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+399,14/11/2023,25351.648856/2021-44,1276493/23-1,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+400,20/11/2023,25351.537526/2013-21,1286818/23-3,11049,RDC 73/2016 - GENÉRICO - Inclusão maior de equipamento
+401,20/11/2023,25351.537526/2013-21,1286816/23-7,11046,RDC 73/2016 - GENÉRICO - Inclusão maior do processo de produção do medicamento
+402,23/11/2023,25351.041286/2019-42,1310720/23-8,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+403,27/11/2023,25351.042116/2003-18,1322179/23-5,11743,RDC 73/2016 - SIMILAR - Mudança do DIFA sem CADIFA (maior)
+404,27/11/2023,25351.497138/2017-17,1324089/23-7,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+405,29/11/2023,25351.457332/2012-57,1341353/23-8,11057,RDC 73/2016 - SIMILAR - Substituição maior de equipamento
+406,29/11/2023,25000.030124/9601,1343679/23-1,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+407,30/11/2023,25000.021225/9708,1350504/23-1,11743,RDC 73/2016 - SIMILAR - Mudança do DIFA sem CADIFA (maior)
+408,30/11/2023,25000.021225/9708,1350537/23-8,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+409,30/11/2023,25351.457332/2012-57,1350527/23-1,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+410,30/11/2023,25351.457332/2012-57,1350582/23-3,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+411,30/11/2023,25351.668104/2019-04,1350614/23-5,11724,RDC 73/2016 - SIMILAR - Inclusão de novo DIFA sem CADIFA
+412,30/11/2023,25351.004767/0249,1351029/23-1,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+413,30/11/2023,25351.717102/2018-46,1353049/23-6,11051,RDC 73/2016 - SIMILAR - Inclusão maior de equipamento
+414,30/11/2023,25351.735051/2009-98,1360028/23-1,11040,RDC 73/2016 - GENÉRICO - Inclusão de local de fabricação de medicamento estéril
+415,30/11/2023,25351.735044/2009-53,1360039/23-7,11042,RDC 73/2016 - SIMILAR - Inclusão de local de fabricação de medicamento estéril
+416,01/12/2023,25351.416544/2022-54,1356465/23-0,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+417,04/12/2023,25351.868260/2016-11,1368388/23-8,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+418,04/12/2023,25351.868260/2016-11,1368462/23-1,10965,RDC 73/2016 - GENÉRICO - Exclusão maior de sulco de medicamento de liberação convencional
+419,04/12/2023,25000.003577/94,1370569/23-5,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+420,05/12/2023,25992.022149/72,1376686/23-4,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+421,06/12/2023,25351.429210/2005-40,1385599/23-9,11742,RDC 73/2016 - GENÉRICO - Mudança do DIFA sem CADIFA (maior)
+422,06/12/2023,25351.441437/2013-71,1385613/23-8,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+423,06/12/2023,25351.203138/2006-11,1387512/23-4,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+424,06/12/2023,25351.745879/2008-17,1387514/23-1,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+425,06/12/2023,25351.679967/2011-87,1387529/23-9,10993,RDC 73/2016 - NOVO - Mudança maior de excipiente para formas farmacêuticas sólidas
+426,08/12/2023,25351.169148/2002-89,1395741/23-4,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+427,08/12/2023,25351.169148/2002-89,1395743/23-1,11057,RDC 73/2016 - SIMILAR - Substituição maior de equipamento
+428,08/12/2023,25351.010524/2020-10,1395745/23-7,11059,RDC 73/2016 - NOVO - Inclusão maior de tamanho de lote do medicamento
+429,08/12/2023,25351.751639/2010-92,1395792/23-9,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+430,08/12/2023,25351.169148/2002-89,1395794/23-5,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+431,08/12/2023,25351.169148/2002-89,1395796/23-1,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+432,08/12/2023,25351.169148/2002-89,1395798/23-8,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+433,08/12/2023,25351.169148/2002-89,1395800/23-3,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+434,08/12/2023,25351.169148/2002-89,1395816/23-0,11877,RDC 73/2016 - SIMILAR - Exclusão crítica de testes ou métodos
+435,08/12/2023,25351.016127/2004-23,1396042/23-3,11060,RDC 73/2016 - SIMILAR - Inclusão maior de tamanho de lote do medicamento
+436,08/12/2023,25351.016127/2004-23,1396027/23-0,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+437,08/12/2023,25351.016127/2004-23,1396029/23-6,11057,RDC 73/2016 - SIMILAR - Substituição maior de equipamento
+438,08/12/2023,25000.023367/9501,1397011/23-9,11069,RDC 73/2016 - SIMILAR - Inclusão maior de composição de embalagem primária do medicamento
+439,11/12/2023,25992.022149/72,1404575/23-3,11863,RDC 73/2016 - NOVO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+440,11/12/2023,25351.636577/2023-08,1404847/23-7,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+441,11/12/2023,25351.459390/2016-09,1405024/23-2,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+442,11/12/2023,25351.459390/2016-09,1405028/23-5,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+443,11/12/2023,25351.459390/2016-09,1405030/23-7,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+444,11/12/2023,25351.459390/2016-09,1405034/23-0,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+445,11/12/2023,25351.051981/2003-55,1406470/23-7,11875,RDC 73/2016 - GENÉRICO - Exclusão crítica de testes ou métodos
+446,11/12/2023,25351.256554/2011-37,1406559/23-2,11071,RDC 73/2016 - NOVO - Alteração maior de composição de embalagem primária do medicamento
+447,12/12/2023,25351.539356/2011-36,1410302/23-8,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+448,12/12/2023,25351.532981/2008-66,1410447/23-4,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+449,12/12/2023,25351.169148/2002-89,1412204/23-9,11724,RDC 73/2016 - SIMILAR - Inclusão de novo DIFA sem CADIFA
+450,12/12/2023,25000.031720/9654,1412214/23-6,11087,RDC 73/2016 - SIMILAR - Mudança relacionada ao diluente
+451,12/12/2023,25351.169148/2002-89,1412247/23-2,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+452,13/12/2023,25351.767269/2020-72,1416315/23-2,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+453,13/12/2023,25000.013933/9522,1418268/23-8,11724,RDC 73/2016 - SIMILAR - Inclusão de novo DIFA sem CADIFA
+454,13/12/2023,25351.326969/2011-35,1418270/23-0,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+455,13/12/2023,25992.011488/65,1426302/23-5,11870,RDC 73/2016 - NOVO - Mudanças maiores de métodos analíticos
+456,15/12/2023,25351.073195/2020-18,1428365/23-4,11003,RDC 73/2016 - SIMILAR - Inclusão de nova apresentação por alteração de sabor
+457,15/12/2023,25351.256554/2011-37,1428467/23-7,11080,RDC 73/2016 - NOVO - Mudança maior da forma e dimensões da embalagem primária do medicamento
+458,15/12/2023,25351.099203/2006-90,1436479/23-4,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+459,18/12/2023,25351.003535/2019-00,1434510/23-2,11051,RDC 73/2016 - SIMILAR - Inclusão maior de equipamento
+460,18/12/2023,25351.535300/2012-41,1434516/23-1,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+461,18/12/2023,25351.016949/0091,1434524/23-2,11058,RDC 73/2016 - GENÉRICO - Inclusão maior de tamanho de lote do medicamento
+462,18/12/2023,25351.016949/0091,1434573/23-1,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+463,18/12/2023,25351.262055/2004-94,1434651/23-6,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+464,18/12/2023,25351.262055/2004-94,1434795/23-4,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+465,18/12/2023,25351.262055/2004-94,1434798/23-9,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+466,18/12/2023,25001.011278/84,1434809/23-8,11071,RDC 73/2016 - NOVO - Alteração maior de composição de embalagem primária do medicamento
+467,19/12/2023,25000.015665/8916,1440120/23-7,11725,RDC 73/2016 - NOVO - Inclusão de novo DIFA sem CADIFA
+468,19/12/2023,25992.017972/73,1440122/23-3,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+469,19/12/2023,25351.025829/0021,1440285/23-8,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+470,19/12/2023,25351.687988/2018-96,1440318/23-8,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+471,19/12/2023,25351.688258/2018-11,1440350/23-1,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+472,19/12/2023,25351.534939/2011-31,1442493/23-2,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+473,20/12/2023,25351.233632/2017-57,1447424/23-7,11875,RDC 73/2016 - GENÉRICO - Exclusão crítica de testes ou métodos
+474,20/12/2023,25351.000519/0001,1447539/23-1,11754,RDC 73/2016 - GENÉRICO - Inclusão de detentor de CADIFA (maior)
+475,20/12/2023,25351.258674/2016-07,1449869/23-3,11058,RDC 73/2016 - GENÉRICO - Inclusão maior de tamanho de lote do medicamento
+476,20/12/2023,25351.159260/2021-74,1450152/23-0,11797,PRODUTO BIOLÓGICO - Mudança pós-registro relacionada a insumo farmacêutico ativo sintético
+477,21/12/2023,25351.258674/2016-07,1454119/23-0,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+478,21/12/2023,25351.258674/2016-07,1454121/23-1,11049,RDC 73/2016 - GENÉRICO - Inclusão maior de equipamento
+479,21/12/2023,25351.357387/2021-57,1454253/23-6,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+480,21/12/2023,25351.680238/2014-78,1454733/23-3,11875,RDC 73/2016 - GENÉRICO - Exclusão crítica de testes ou métodos
+481,21/12/2023,25351.664159/2014-45,1456670/23-2,11875,RDC 73/2016 - GENÉRICO - Exclusão crítica de testes ou métodos
+482,21/12/2023,25351.752105/2009-04,1456751/23-2,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+483,21/12/2023,25351.023683/0014,1456749/23-1,11042,RDC 73/2016 - SIMILAR - Inclusão de local de fabricação de medicamento estéril
+484,21/12/2023,25351.661064/2014-15,1456761/23-0,11877,RDC 73/2016 - SIMILAR - Exclusão crítica de testes ou métodos
+485,21/12/2023,25351.600309/2019-63,1460807/23-3,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+486,21/12/2023,25351.009028/0171,1464602/23-1,11044,RDC 73/2016 - NOVO - Alteração maior do processo de produção do medicamento
+487,21/12/2023,25351.009028/0171,1464605/23-6,11056,RDC 73/2016 - NOVO - Substituição maior de equipamento
+488,21/12/2023,25351.600307/2019-74,1460778/23-6,11724,RDC 73/2016 - SIMILAR - Inclusão de novo DIFA sem CADIFA
+489,22/12/2023,25351.314429/2022-46,1461009/23-4,11068,RDC 73/2016 - NOVO - Inclusão maior de composição de embalagem primária do medicamento
+490,22/12/2023,25351.665091/2014-92,1461428/23-6,11875,RDC 73/2016 - GENÉRICO - Exclusão crítica de testes ou métodos
+491,22/12/2023,25351.712363/2019-51,1462955/23-1,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+492,23/12/2023,25351.725907/2012-68,1466498/23-4,10994,RDC 73/2016 - SIMILAR - Mudança maior de excipiente para formas farmacêuticas sólidas
+493,23/12/2023,25351.725907/2012-68,1466502/23-6,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+494,23/12/2023,25351.725907/2012-68,1466504/23-2,11057,RDC 73/2016 - SIMILAR - Substituição maior de equipamento
+495,23/12/2023,25001.017057/85,1466512/23-3,11724,RDC 73/2016 - SIMILAR - Inclusão de novo DIFA sem CADIFA
+496,23/12/2023,25000.023367/9501,1466530/23-1,11755,RDC 73/2016 - SIMILAR - Inclusão de detentor de CADIFA (maior)
+497,23/12/2023,25351.725907/2012-68,1466532/23-8,11864,RDC 73/2016 - SIMILAR - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+498,23/12/2023,25351.725907/2012-68,1466536/23-1,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+499,23/12/2023,25351.566289/2011-32,1466538/23-7,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+500,22/12/2023,25351.009028/0171,1471017/23-0,11056,RDC 73/2016 - NOVO - Substituição maior de equipamento
+501,26/12/2023,25351.435815/2021-90,1477840/23-8,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+502,28/12/2023,25351.749645/2009-29,1482955/23-0,11037,RDC 73/2016 - GENÉRICO - Substituição de local de fabricação de medicamento estéril
+503,28/12/2023,25351.749691/2009-18,1482924/23-0,11039,RDC 73/2016 - SIMILAR - Substituição de local de fabricação de medicamento estéril
+504,28/12/2023,25992.006004/78,1479097/23-1,10206,SIMILAR - Alteração maior de excipiente
+505,28/12/2023,25351.806649/2010-33,1481168/23-5,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+506,28/12/2023,25351.806649/2010-33,1481170/23-7,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+507,29/12/2023,25351.000519/0001,1484523/23-7,11754,RDC 73/2016 - GENÉRICO - Inclusão de detentor de CADIFA (maior)
+508,29/12/2023,25351.565273/2010-91,1484669/23-1,10992,RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas
+509,29/12/2023,25351.565273/2010-91,1484685/23-3,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+510,29/12/2023,25351.565273/2010-91,1484687/23-0,11055,RDC 73/2016 - GENÉRICO - Substituição maior de equipamento
+511,29/12/2023,25351.565273/2010-91,1484695/23-1,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
+512,29/12/2023,25351.565273/2010-91,1484706/23-0,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+513,29/12/2023,25351.798455/2010-61,1486179/23-8,11724,RDC 73/2016 - SIMILAR - Inclusão de novo DIFA sem CADIFA
+514,29/12/2023,25001.017057/85,1486239/23-5,11045,RDC 73/2016 - SIMILAR - Alteração maior do processo de produção do medicamento
+515,29/12/2023,25351.149842/2009-74,1486255/23-7,11043,RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento
+516,29/12/2023,25001.017057/85,1486258/23-1,11051,RDC 73/2016 - SIMILAR - Inclusão maior de equipamento
+517,29/12/2023,25351.798455/2010-61,1486268/23-9,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+518,29/12/2023,25001.017057/85,1486279/23-4,11724,RDC 73/2016 - SIMILAR - Inclusão de novo DIFA sem CADIFA
+519,29/12/2023,25001.017057/85,1486284/23-1,11871,RDC 73/2016 - SIMILAR - Mudanças maiores de métodos analíticos
+520,29/12/2023,25351.149842/2009-74,1486291/23-3,11049,RDC 73/2016 - GENÉRICO - Inclusão maior de equipamento
+521,29/12/2023,25351.149842/2009-74,1486313/23-8,11723,RDC 73/2016 - GENÉRICO - Inclusão de novo DIFA sem CADIFA
+522,29/12/2023,25351.149842/2009-74,1486318/23-9,11869,RDC 73/2016 - GENÉRICO - Mudanças maiores de métodos analíticos
+523,29/12/2023,25351.000519/0001,1486414/23-2,11862,RDC 73/2016 - GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente
