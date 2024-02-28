@@ -1,22 +1,22 @@
 Expediente,Fila ou Lista,"Area, fila e subfila",Posição Atual,Variação Posição
-0330454/23-0,Fila,Medicamento_CADIFA – Notificação_Registro - Notificação do Processo da CADIFA.csv,93,NA
-0517108/23-3,Fila,Medicamento_CADIFA – Notificação_Registro - Notificação do Processo da CADIFA.csv,111,NA
-1052000/23-7,Fila,Medicamento_CADIFA – Notificação_Registro - Notificação do Processo da CADIFA.csv,190,NA
-0986315/23-0,Fila,Medicamento_CADIFA – Notificação_Pós-Registro - Notificação do Processo da CADIFA.csv,108,NA
-0662553/23-3,Fila,Medicamento_CADIFA – Notificação_Pós-Registro - Notificação do Processo da CADIFA.csv,65,NA
-0639584/23-8,Fila,Medicamento_CADIFA – Notificação_Pós-Registro - Notificação do Processo da CADIFA.csv,61,NA
-4659896/22-1,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,49,NA
-4659939/22-8,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,50,NA
-0331496/23-1,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,195,NA
-0517178/23-4,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,234,NA
-1031083/23-5,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,329,NA
-5097817/22-9,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,129,NA
-1052860/23-1,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,332,NA
-0139156/23-2,Lista,Insumo Farmacêutico_CADIFA_Solicitação de CADIFA Associada  Associated CADIFA Application .csv,176,106
-5033492/22-5,Lista,Insumo Farmacêutico_CADIFA_Solicitação de CADIFA Associada  Associated CADIFA Application .csv,131,NA
-4855351/22-9,Lista,Insumo Farmacêutico_CADIFA_Solicitação de CADIFA Associada  Associated CADIFA Application .csv,97,NA
-0430141/23-8,Lista,Insumo Farmacêutico_CADIFA_Solicitação de CADIFA Associada  Associated CADIFA Application .csv,227,NA
-5066647/22-8,Lista,Insumo Farmacêutico_CADIFA_Solicitação de CADIFA Associada  Associated CADIFA Application .csv,139,NA
+0330454/23-0,Fila,Medicamento_CADIFA – Notificação_Registro - Notificação do Processo da CADIFA.csv,93,-82
+0517108/23-3,Fila,Medicamento_CADIFA – Notificação_Registro - Notificação do Processo da CADIFA.csv,111,-102
+1052000/23-7,Fila,Medicamento_CADIFA – Notificação_Registro - Notificação do Processo da CADIFA.csv,190,-9
+0986315/23-0,Fila,Medicamento_CADIFA – Notificação_Pós-Registro - Notificação do Processo da CADIFA.csv,108,-43
+0662553/23-3,Fila,Medicamento_CADIFA – Notificação_Pós-Registro - Notificação do Processo da CADIFA.csv,65,-36
+0639584/23-8,Fila,Medicamento_CADIFA – Notificação_Pós-Registro - Notificação do Processo da CADIFA.csv,61,-44
+4659896/22-1,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,49,-198
+4659939/22-8,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,50,-198
+0331496/23-1,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,195,-125
+0517178/23-4,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,234,-114
+1031083/23-5,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,329,-46
+5097817/22-9,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,129,-156
+1052860/23-1,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,332,-47
+0139156/23-2,Lista,Insumo Farmacêutico_CADIFA_Solicitação de CADIFA Associada  Associated CADIFA Application .csv,176,3
+5033492/22-5,Lista,Insumo Farmacêutico_CADIFA_Solicitação de CADIFA Associada  Associated CADIFA Application .csv,131,2
+4855351/22-9,Lista,Insumo Farmacêutico_CADIFA_Solicitação de CADIFA Associada  Associated CADIFA Application .csv,97,-1
+0430141/23-8,Lista,Insumo Farmacêutico_CADIFA_Solicitação de CADIFA Associada  Associated CADIFA Application .csv,227,0
+5066647/22-8,Lista,Insumo Farmacêutico_CADIFA_Solicitação de CADIFA Associada  Associated CADIFA Application .csv,139,1
 0998081/23-4,NA,NA,NA,NA
 0966319/23-3,NA,NA,NA,NA
 0998114/23-4,NA,NA,NA,NA
