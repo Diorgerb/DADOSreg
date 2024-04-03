@@ -1,0 +1,792 @@
+#NUM_EXPEDIENTE_PETICAO,DESC_FILA_ANALISE,DESC_SUB_FILA_LISTA_ANALISE,DESC_GRUPO_ETAPA_CICLO_ANALISE,TEMPO
+222184,REGISTRO,Genéricos e Similares,Fila de Análise,74.0
+222184,REGISTRO,Genéricos e Similares,Análise em Andamento,37.0
+222184,REGISTRO,Genéricos e Similares,Exigência,119.0
+222184,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,50.0
+222184,REGISTRO,Genéricos e Similares,Análise em Andamento,11.0
+222184,REGISTRO,Genéricos e Similares,Exigência,14.0
+222184,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,132.0
+222184,REGISTRO,Genéricos e Similares,Finalização,7.0
+2443231,REGISTRO,Clones,Fila de Análise,17.0
+2443231,REGISTRO,Clones,Finalização,10.0
+12283081,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,50.0
+12283081,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Análise em Andamento,3593.0
+12283081,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,25.0
+13045171,REGISTRO,Clones,Fila de Análise,14.0
+13045171,REGISTRO,Clones,Finalização,83.0
+17942196,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,90.0
+17942196,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Finalização,2.0
+17942196,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Análise em Andamento,0.0
+17942196,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Finalização,5.0
+30390189,REGISTRO,Genéricos e Similares,Fila de Análise,40.0
+30390189,REGISTRO,Genéricos e Similares,Análise em Andamento,16.0
+30390189,REGISTRO,Genéricos e Similares,Exigência,0.0
+30390189,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,0.0
+30390189,REGISTRO,Genéricos e Similares,Finalização,130.0
+33216180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,150.0
+33216180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,1.0
+33216180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Exigência,0.0
+33216180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise de Cumprimento de Exigência,63.0
+33216180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,0.0
+50116196,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,124.0
+50116196,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,5.0
+50116196,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,56.0
+50116196,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,1.0
+50116196,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,3.0
+50116196,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,10.0
+50116196,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,44.0
+50116196,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,0.0
+50116196,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,0.0
+50116196,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+50156195,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,124.0
+50156195,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,5.0
+50156195,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,56.0
+50156195,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,1.0
+50156195,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,3.0
+50156195,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,10.0
+50156195,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,44.0
+50156195,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,0.0
+50156195,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,0.0
+50156195,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+54680247,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,31.0
+59041180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,134.0
+59041180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,4.0
+59041180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Exigência,0.0
+59041180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise de Cumprimento de Exigência,0.0
+59041180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,50.0
+65640182,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,234.0
+65640182,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,31.0
+65640182,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Exigência,6.0
+65640182,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise de Cumprimento de Exigência,0.0
+65640182,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,90.0
+65640182,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise de Cumprimento de Exigência,0.0
+65640182,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,0.0
+65854185,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,228.0
+65854185,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,10.0
+65854185,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Exigência,119.0
+65854185,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise de Cumprimento de Exigência,31.0
+65854185,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,0.0
+101812184,REGISTRO,Clones,Fila de Análise,64.0
+101812184,REGISTRO,Clones,Análise em Andamento,146.0
+101812184,REGISTRO,Clones,Finalização,12.0
+101884181,REGISTRO,Clones,Fila de Análise,12.0
+101884181,REGISTRO,Clones,Análise em Andamento,1.0
+101884181,REGISTRO,Clones,Finalização,118.0
+102873191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,142.0
+102873191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Análise em Andamento,7.0
+102873191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,12.0
+106011182,REGISTRO,Clones,Fila de Análise,11.0
+106011182,REGISTRO,Clones,Análise em Andamento,99.0
+106011182,REGISTRO,Clones,Finalização,104.0
+118318184,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,270.0
+142454198,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,293.0
+142454198,RENOVAÇÃO,"Genéricos, Novos e Similares",Outras Etapas,971.0
+152846157,REGISTRO,Clones,Fila de Análise,67.0
+152846157,REGISTRO,Clones,Sobrestado Externo,1255.0
+152846157,REGISTRO,Clones,Finalização,1.0
+152846157,REGISTRO,Clones,Análise em Andamento,0.0
+152846157,REGISTRO,Clones,Finalização,4.0
+166104183,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,255.0
+166124188,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,247.0
+166124188,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1343.0
+166124188,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+167089171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,107.0
+167089171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,13.0
+167089171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Exigência,119.0
+167089171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise de Cumprimento de Exigência,65.0
+167089171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,4.0
+167089171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Exigência,112.0
+167089171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise de Cumprimento de Exigência,42.0
+167089171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,7.0
+167089171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Exigência,105.0
+167089171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise de Cumprimento de Exigência,16.0
+167089171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,12.0
+183964181,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,39.0
+188429188,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,70.0
+188429188,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Análise em Andamento,44.0
+188429188,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,19.0
+195567195,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,186.0
+212660195,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,179.0
+214798200,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,99.0
+214798200,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Exigência,134.0
+218545108,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,2794.0
+218545108,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Exigência,41.0
+218545108,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise de Cumprimento de Exigência,90.0
+218559108,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,172.0
+218559108,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,3865.0
+218559108,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,6.0
+249033191,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,217.0
+249033191,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,990.0
+249033191,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+249033191,RENOVAÇÃO,"Genéricos, Novos e Similares",Outras Etapas,24.0
+260736171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,133.0
+260736171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Análise em Andamento,27.0
+260736171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Finalização,62.0
+262089208,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,81.0
+264281206,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,81.0
+265172156,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,215.0
+265172156,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1989.0
+265172156,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,6.0
+268684188,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,208.0
+268684188,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1347.0
+268684188,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+268687182,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,208.0
+268687182,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,76.0
+268687182,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+269145181,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,26.0
+269181187,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,26.0
+304987156,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,22.0
+304987156,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1750.0
+304987156,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+314435206,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,0.0
+315361204,PÓS-REGISTRO,Fitoterápicos - Menor complexidade,Fila de Análise,4.0
+315361204,PÓS-REGISTRO,Fitoterápicos - Menor complexidade,Finalização,6.0
+341521190,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,241.0
+341521190,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,939.0
+341521190,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+341521190,RENOVAÇÃO,"Genéricos, Novos e Similares",Outras Etapas,24.0
+342584203,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,239.0
+342584203,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,1.0
+342584203,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Exigência,97.0
+342584203,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise de Cumprimento de Exigência,1.0
+342584203,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,0.0
+342584203,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,0.0
+348078180,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,199.0
+348078180,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,4.0
+348078180,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Análise em Andamento,0.0
+348078180,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,7.0
+377488171,REGISTRO,Clones,Fila de Análise,22.0
+377488171,REGISTRO,Clones,Finalização,17.0
+399972186,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,31.0
+400018188,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,31.0
+400082180,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,45.0
+415728201,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,0.0
+417654175,REGISTRO,Clones,Fila de Análise,25.0
+417654175,REGISTRO,Clones,Análise em Andamento,10.0
+417654175,REGISTRO,Clones,Exigência,83.0
+417654175,REGISTRO,Clones,Análise de Cumprimento de Exigência,5.0
+417654175,REGISTRO,Clones,Finalização,9.0
+417654175,REGISTRO,Clones,Análise em Andamento,0.0
+417654175,REGISTRO,Clones,Finalização,5.0
+426440191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,276.0
+426916201,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,0.0
+437311181,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,200.0
+437311181,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1303.0
+437311181,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+437354185,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,200.0
+437354185,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1302.0
+437354185,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+439710190,PÓS-REGISTRO,Específicos - Menor complexidade,Fila de Análise,20.0
+439710190,PÓS-REGISTRO,Específicos - Menor complexidade,Finalização,25.0
+439870190,PÓS-REGISTRO,Fitoterápicos - Maior complexidade,Fila de Análise,111.0
+439870190,PÓS-REGISTRO,Fitoterápicos - Maior complexidade,Análise em Andamento,19.0
+439870190,PÓS-REGISTRO,Fitoterápicos - Maior complexidade,Exigência,1.0
+439870190,PÓS-REGISTRO,Fitoterápicos - Maior complexidade,Análise de Cumprimento de Exigência,30.0
+439870190,PÓS-REGISTRO,Fitoterápicos - Maior complexidade,Finalização,11.0
+445882186,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,10.0
+445882186,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,1.0
+445882186,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,11.0
+445882186,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,36.0
+445882186,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,0.0
+445882186,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+486733185,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,208.0
+486733185,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1279.0
+486733185,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+488526171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,0.0
+488526171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Análise em Andamento,4.0
+488526171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Finalização,10.0
+499933199,REGISTRO,Clones,Fila de Análise,41.0
+499933199,REGISTRO,Clones,Análise em Andamento,7.0
+499933199,REGISTRO,Clones,Finalização,13.0
+517181204,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,0.0
+540853209,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,0.0
+542500190,REGISTRO,Clones,Fila de Análise,40.0
+542500190,REGISTRO,Clones,Análise em Andamento,4.0
+542500190,REGISTRO,Clones,Exigência,4.0
+542500190,REGISTRO,Clones,Análise de Cumprimento de Exigência,35.0
+542500190,REGISTRO,Clones,Finalização,1.0
+542500190,REGISTRO,Clones,Análise em Andamento,0.0
+542500190,REGISTRO,Clones,Finalização,5.0
+546431215,REGISTRO,Fitoterápicos,Fila de Análise,92.0
+546431215,REGISTRO,Fitoterápicos,Análise em Andamento,8.0
+546431215,REGISTRO,Fitoterápicos,Exigência,104.0
+546431215,REGISTRO,Fitoterápicos,Análise de Cumprimento de Exigência,8.0
+546431215,REGISTRO,Fitoterápicos,Análise em Andamento,5.0
+546431215,REGISTRO,Fitoterápicos,Finalização,13.0
+576728188,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,274.0
+576784189,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,274.0
+579575213,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,212.0
+579575213,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,0.0
+580701178,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,236.0
+600824191,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,331.0
+601743196,REGISTRO,Genéricos e Similares,Fila de Análise,408.0
+601743196,REGISTRO,Genéricos e Similares,Análise em Andamento,29.0
+601743196,REGISTRO,Genéricos e Similares,Exigência,116.0
+601743196,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,53.0
+601743196,REGISTRO,Genéricos e Similares,Análise em Andamento,9.0
+601743196,REGISTRO,Genéricos e Similares,Exigência,108.0
+601743196,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,117.0
+601743196,REGISTRO,Genéricos e Similares,Finalização,8.0
+601962195,REGISTRO,Genéricos e Similares,Fila de Análise,471.0
+601962195,REGISTRO,Genéricos e Similares,Análise em Andamento,50.0
+601962195,REGISTRO,Genéricos e Similares,Exigência,75.0
+601962195,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,139.0
+601962195,REGISTRO,Genéricos e Similares,Finalização,6.0
+604413191,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,500.0
+604413191,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,11.0
+604413191,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,0.0
+604423199,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,800.0
+604423199,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,0.0
+605913209,PÓS-REGISTRO,Fitoterápicos - Menor complexidade,Fila de Análise,97.0
+605913209,PÓS-REGISTRO,Fitoterápicos - Menor complexidade,Finalização,0.0
+614843193,REGISTRO,Genéricos e Similares,Fila de Análise,398.0
+614843193,REGISTRO,Genéricos e Similares,Análise em Andamento,26.0
+614843193,REGISTRO,Genéricos e Similares,Exigência,106.0
+614843193,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,56.0
+614843193,REGISTRO,Genéricos e Similares,Análise em Andamento,167.0
+614843193,REGISTRO,Genéricos e Similares,Finalização,6.0
+616113148,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,1249.0
+616113148,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,4.0
+616113148,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Exigência,37.0
+616113148,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise de Cumprimento de Exigência,29.0
+616113148,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,11.0
+616113148,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,0.0
+616113148,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+617986140,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,1249.0
+617986140,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,4.0
+617986140,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Exigência,37.0
+617986140,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise de Cumprimento de Exigência,22.0
+617986140,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,18.0
+617986140,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,0.0
+617986140,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise de Cumprimento de Exigência,0.0
+617986140,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+621712230,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,14.0
+621712230,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,39.0
+621712230,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Análise em Andamento,0.0
+621712230,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,0.0
+627324196,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,695.0
+627324196,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,0.0
+639253199,REGISTRO,Clones,Fila de Análise,17.0
+639253199,REGISTRO,Clones,Análise em Andamento,263.0
+639253199,REGISTRO,Clones,Exigência,22.0
+639253199,REGISTRO,Clones,Análise de Cumprimento de Exigência,10.0
+639253199,REGISTRO,Clones,Finalização,10.0
+664072159,REGISTRO,Genéricos e Similares,Fila de Análise,961.0
+664072159,REGISTRO,Genéricos e Similares,Análise em Andamento,23.0
+664072159,REGISTRO,Genéricos e Similares,Exigência,117.0
+664072159,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,141.0
+664072159,REGISTRO,Genéricos e Similares,Análise em Andamento,1.0
+664072159,REGISTRO,Genéricos e Similares,Exigência,168.0
+664072159,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,313.0
+664072159,REGISTRO,Genéricos e Similares,Finalização,5.0
+667309171,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,365.0
+667313179,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,365.0
+667414173,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,365.0
+667416170,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,365.0
+676408238,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,33.0
+676408238,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,34.0
+676408238,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+676410230,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,51.0
+676410230,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,24.0
+676410230,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,48.0
+676410230,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,35.0
+676410230,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,0.0
+676410230,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+726612120,REGISTRO,Genéricos e Similares,Fila de Análise,1974.0
+726612120,REGISTRO,Genéricos e Similares,Análise em Andamento,40.0
+726612120,REGISTRO,Genéricos e Similares,Exigência,113.0
+726612120,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,144.0
+726612120,REGISTRO,Genéricos e Similares,Análise em Andamento,2.0
+726612120,REGISTRO,Genéricos e Similares,Exigência,77.0
+726612120,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,86.0
+726612120,REGISTRO,Genéricos e Similares,Análise em Andamento,2.0
+726612120,REGISTRO,Genéricos e Similares,Exigência,73.0
+726612120,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,296.0
+726612120,REGISTRO,Genéricos e Similares,Finalização,12.0
+728930234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,3.0
+728930234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,25.0
+728930234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Análise em Andamento,0.0
+728930234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,0.0
+758469235,REGISTRO,Clones,Fila de Análise,17.0
+758469235,REGISTRO,Clones,Análise em Andamento,9.0
+758469235,REGISTRO,Clones,Exigência,15.0
+758469235,REGISTRO,Clones,Análise de Cumprimento de Exigência,25.0
+758469235,REGISTRO,Clones,Análise em Andamento,10.0
+758469235,REGISTRO,Clones,Exigência,1.0
+758469235,REGISTRO,Clones,Análise de Cumprimento de Exigência,19.0
+758469235,REGISTRO,Clones,Finalização,5.0
+782709151,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,673.0
+782709151,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Outras Etapas,1.0
+786427182,REGISTRO,Fitoterápicos,Fila de Análise,248.0
+786427182,REGISTRO,Fitoterápicos,Análise em Andamento,21.0
+786427182,REGISTRO,Fitoterápicos,Exigência,99.0
+786427182,REGISTRO,Fitoterápicos,Análise de Cumprimento de Exigência,35.0
+786427182,REGISTRO,Fitoterápicos,Análise em Andamento,10.0
+786427182,REGISTRO,Fitoterápicos,Exigência,102.0
+786427182,REGISTRO,Fitoterápicos,Análise de Cumprimento de Exigência,16.0
+786427182,REGISTRO,Fitoterápicos,Finalização,8.0
+814838184,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,197.0
+814838184,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1225.0
+814838184,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+814873182,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,197.0
+814873182,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1225.0
+814873182,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+814895183,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,202.0
+814895183,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1220.0
+814895183,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+815618182,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,197.0
+815618182,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1225.0
+815618182,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+822808186,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,105.0
+822808186,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,30.0
+822808186,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,15.0
+822808186,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,5.0
+822808186,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+828120233,REGISTRO,Clones,Fila de Análise,1.0
+828120233,REGISTRO,Clones,Análise em Andamento,7.0
+828120233,REGISTRO,Clones,Exigência,0.0
+828120233,REGISTRO,Clones,Análise de Cumprimento de Exigência,70.0
+828120233,REGISTRO,Clones,Finalização,5.0
+828123238,REGISTRO,Clones,Fila de Análise,6.0
+828123238,REGISTRO,Clones,Análise em Andamento,25.0
+828123238,REGISTRO,Clones,Exigência,3.0
+828123238,REGISTRO,Clones,Análise de Cumprimento de Exigência,29.0
+828123238,REGISTRO,Clones,Finalização,6.0
+828126232,REGISTRO,Clones,Fila de Análise,13.0
+828126232,REGISTRO,Clones,Análise em Andamento,23.0
+828126232,REGISTRO,Clones,Finalização,5.0
+830047170,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,401.0
+830047170,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,4.0
+830047170,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,0.0
+831343181,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,99.0
+831406183,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,140.0
+844338186,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,262.0
+859875184,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,88.0
+889323233,REGISTRO,Clones,Fila de Análise,21.0
+889323233,REGISTRO,Clones,Análise em Andamento,7.0
+889323233,REGISTRO,Clones,Finalização,5.0
+894736238,REGISTRO,Clones,Fila de Análise,25.0
+894736238,REGISTRO,Clones,Análise em Andamento,2.0
+894736238,REGISTRO,Clones,Finalização,5.0
+896423158,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,42.0
+896423158,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,426.0
+896423158,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+898590231,REGISTRO,Clones,Fila de Análise,25.0
+898590231,REGISTRO,Clones,Análise em Andamento,1.0
+898590231,REGISTRO,Clones,Finalização,5.0
+905772232,REGISTRO,Clones,Fila de Análise,16.0
+905772232,REGISTRO,Clones,Sobrestado Anvisa,2.0
+905772232,REGISTRO,Clones,Análise em Andamento,54.0
+905772232,REGISTRO,Clones,Finalização,5.0
+927382184,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,92.0
+927433182,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,92.0
+927589234,REGISTRO,Clones,Fila de Análise,20.0
+927589234,REGISTRO,Clones,Análise em Andamento,20.0
+927589234,REGISTRO,Clones,Finalização,6.0
+939468231,REGISTRO,Clones,Fila de Análise,9.0
+939468231,REGISTRO,Clones,Análise em Andamento,1.0
+939468231,REGISTRO,Clones,Sobrestado Anvisa,1.0
+939468231,REGISTRO,Clones,Análise em Andamento,46.0
+939468231,REGISTRO,Clones,Finalização,6.0
+940766129,REGISTRO,Genéricos e Similares,Fila de Análise,120.0
+940766129,REGISTRO,Genéricos e Similares,Análise em Andamento,3596.0
+940766129,REGISTRO,Genéricos e Similares,Finalização,7.0
+961790126,REGISTRO,Genéricos e Similares,Fila de Análise,416.0
+961790126,REGISTRO,Genéricos e Similares,Análise em Andamento,1666.0
+961790126,REGISTRO,Genéricos e Similares,Exigência,111.0
+961790126,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,165.0
+961790126,REGISTRO,Genéricos e Similares,Análise em Andamento,436.0
+961790126,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,0.0
+961790126,REGISTRO,Genéricos e Similares,Finalização,5.0
+970579121,REGISTRO,Genéricos e Similares,Fila de Análise,414.0
+970579121,REGISTRO,Genéricos e Similares,Análise em Andamento,2412.0
+970579121,REGISTRO,Genéricos e Similares,Exigência,44.0
+970579121,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,42.0
+970579121,REGISTRO,Genéricos e Similares,Análise em Andamento,6.0
+970579121,REGISTRO,Genéricos e Similares,Finalização,5.0
+995936180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,52.0
+995936180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,11.0
+995936180,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,0.0
+998081234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,138.0
+998081234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Sobrestado Externo,11.0
+998081234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,0.0
+998081234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,0.0
+998114234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,138.0
+998114234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Sobrestado Externo,11.0
+998114234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,0.0
+998114234,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,0.0
+1030675187,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,259.0
+1030675187,RENOVAÇÃO,"Genéricos, Novos e Similares",Outras Etapas,22.0
+1039648189,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,38.0
+1114109203,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,187.0
+1114109203,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,13.0
+1196432184,REGISTRO,Genéricos e Similares,Fila de Análise,482.0
+1196432184,REGISTRO,Genéricos e Similares,Análise em Andamento,10.0
+1196432184,REGISTRO,Genéricos e Similares,Exigência,124.0
+1196432184,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,118.0
+1196432184,REGISTRO,Genéricos e Similares,Análise em Andamento,22.0
+1196432184,REGISTRO,Genéricos e Similares,Finalização,5.0
+1196651183,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,253.0
+1196651183,RENOVAÇÃO,"Genéricos, Novos e Similares",Outras Etapas,1045.0
+1201802183,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,361.0
+1203394174,REGISTRO,Clones,Fila de Análise,10.0
+1203394174,REGISTRO,Clones,Análise em Andamento,14.0
+1203394174,REGISTRO,Clones,Finalização,14.0
+1203395172,REGISTRO,Clones,Fila de Análise,12.0
+1203395172,REGISTRO,Clones,Análise em Andamento,14.0
+1203395172,REGISTRO,Clones,Exigência,27.0
+1203395172,REGISTRO,Clones,Análise de Cumprimento de Exigência,34.0
+1203395172,REGISTRO,Clones,Finalização,14.0
+1231081216,PÓS-REGISTRO,Fitoterápicos - Menor complexidade,Fila de Análise,91.0
+1231081216,PÓS-REGISTRO,Fitoterápicos - Menor complexidade,Análise em Andamento,65.0
+1231081216,PÓS-REGISTRO,Fitoterápicos - Menor complexidade,Exigência,11.0
+1231081216,PÓS-REGISTRO,Fitoterápicos - Menor complexidade,Análise de Cumprimento de Exigência,1.0
+1231081216,PÓS-REGISTRO,Fitoterápicos - Menor complexidade,Finalização,20.0
+1257005172,REGISTRO,Clones,Fila de Análise,6.0
+1257005172,REGISTRO,Clones,Análise em Andamento,12.0
+1257005172,REGISTRO,Clones,Finalização,14.0
+1265235171,REGISTRO,Clones,Fila de Análise,7.0
+1265235171,REGISTRO,Clones,Sobrestado Externo,1236.0
+1265235171,REGISTRO,Clones,Análise em Andamento,41.0
+1265235171,REGISTRO,Clones,Finalização,28.0
+1289343169,REGISTRO,Genéricos e Similares,Fila de Análise,865.0
+1289343169,REGISTRO,Genéricos e Similares,Análise em Andamento,27.0
+1289343169,REGISTRO,Genéricos e Similares,Exigência,119.0
+1289343169,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,189.0
+1289343169,REGISTRO,Genéricos e Similares,Finalização,7.0
+1291905195,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,5.0
+1331497161,REGISTRO,Clones,Fila de Análise,9.0
+1331497161,REGISTRO,Clones,Análise em Andamento,13.0
+1331497161,REGISTRO,Clones,Exigência,107.0
+1331497161,REGISTRO,Clones,Análise de Cumprimento de Exigência,231.0
+1331497161,REGISTRO,Clones,Finalização,14.0
+1331497161,REGISTRO,Clones,Análise em Andamento,0.0
+1331497161,REGISTRO,Clones,Finalização,5.0
+1333004231,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,48.0
+1354173236,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,4.0
+1354173236,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,23.0
+1354173236,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Análise em Andamento,0.0
+1354173236,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,2.0
+1354177231,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,4.0
+1354177231,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,23.0
+1354177231,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Análise em Andamento,0.0
+1354177231,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,2.0
+1406005201,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,240.0
+1406005201,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,159.0
+1406005201,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+1406041208,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,240.0
+1406041208,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,159.0
+1406041208,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+1406043204,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,240.0
+1406043204,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,159.0
+1406043204,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+1406048205,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,240.0
+1406048205,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,159.0
+1406048205,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+1406051205,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,240.0
+1406051205,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,159.0
+1406051205,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+1406053201,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,240.0
+1406053201,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,159.0
+1406053201,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+1406057204,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,240.0
+1406057204,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,159.0
+1406057204,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+1415425171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,122.0
+1415425171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,25.0
+1549067170,REGISTRO,Clones,Fila de Análise,29.0
+1549067170,REGISTRO,Clones,Análise em Andamento,9.0
+1549067170,REGISTRO,Clones,Finalização,17.0
+1913798192,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,41.0
+1973017199,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,1061.0
+1973017199,RENOVAÇÃO,"Genéricos, Novos e Similares",Outras Etapas,24.0
+2009064191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,0.0
+2071904173,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,204.0
+2071904173,RENOVAÇÃO,"Genéricos, Novos e Similares",Outras Etapas,1537.0
+2113893211,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,112.0
+2114279213,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,112.0
+2131962176,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,187.0
+2145833212,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,175.0
+2145905213,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,175.0
+2154219178,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,83.0
+2154219178,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Finalização,0.0
+2154295173,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,80.0
+2154295173,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Finalização,0.0
+2161393211,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,25.0
+2161393211,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Finalização,0.0
+2161485217,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,165.0
+2161697213,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,165.0
+2168471175,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,175.0
+2179496171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,0.0
+2179496171,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,28.0
+2213232215,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,170.0
+2213251211,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,170.0
+2237940171,REGISTRO,Clones,Fila de Análise,23.0
+2237940171,REGISTRO,Clones,Análise em Andamento,49.0
+2237940171,REGISTRO,Clones,Finalização,54.0
+2298881175,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,93.0
+2329108177,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,24.0
+2329108177,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+2329108177,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Outras Etapas,93.0
+2329110179,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,24.0
+2329110179,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+2329295174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,24.0
+2329295174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,9.0
+2329295174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,20.0
+2329295174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,204.0
+2329295174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,191.0
+2329295174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,0.0
+2329295174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+2329309178,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,24.0
+2329309178,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,78.0
+2329319175,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,24.0
+2329319175,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,1.0
+2329319175,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,1785.0
+2329716176,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,25.0
+2329716176,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,25.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,8.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,20.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,204.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,194.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,0.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,1.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,31.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,1097.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,0.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Sobrestado Anvisa,0.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,1.0
+2329717174,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+2329718172,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,26.0
+2329718172,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,7.0
+2329718172,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,20.0
+2329718172,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,204.0
+2329718172,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,194.0
+2329718172,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,0.0
+2329718172,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+2329719171,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,26.0
+2329719171,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,7.0
+2329719171,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,20.0
+2329719171,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,204.0
+2329719171,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,194.0
+2329719171,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,0.0
+2329719171,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,1.0
+2329719171,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Exigência,31.0
+2329719171,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise de Cumprimento de Exigência,1098.0
+2329719171,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+2332452160,REGISTRO,Fitoterápicos,Fila de Análise,526.0
+2332452160,REGISTRO,Fitoterápicos,Análise em Andamento,8.0
+2332452160,REGISTRO,Fitoterápicos,Exigência,118.0
+2332452160,REGISTRO,Fitoterápicos,Análise de Cumprimento de Exigência,57.0
+2332452160,REGISTRO,Fitoterápicos,Análise em Andamento,9.0
+2332452160,REGISTRO,Fitoterápicos,Exigência,20.0
+2332452160,REGISTRO,Fitoterápicos,Análise de Cumprimento de Exigência,189.0
+2332452160,REGISTRO,Fitoterápicos,Finalização,5.0
+2332452160,REGISTRO,Fitoterápicos,Análise de Cumprimento de Exigência,0.0
+2332452160,REGISTRO,Fitoterápicos,Finalização,6.0
+2371000194,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,74.0
+2379419164,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,463.0
+2379419164,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Análise em Andamento,1.0
+2379419164,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Finalização,0.0
+2398987214,PÓS-REGISTRO,Específicos - Menor complexidade,Fila de Análise,91.0
+2398987214,PÓS-REGISTRO,Específicos - Menor complexidade,Análise em Andamento,9.0
+2398987214,PÓS-REGISTRO,Específicos - Menor complexidade,Finalização,5.0
+2414401222,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,208.0
+2414401222,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Finalização,0.0
+2441630164,REGISTRO,Clones,Fila de Análise,59.0
+2441630164,REGISTRO,Clones,Análise em Andamento,7.0
+2441630164,REGISTRO,Clones,Exigência,40.0
+2441630164,REGISTRO,Clones,Análise de Cumprimento de Exigência,23.0
+2441630164,REGISTRO,Clones,Finalização,6.0
+2441630164,REGISTRO,Clones,Análise em Andamento,0.0
+2441630164,REGISTRO,Clones,Finalização,5.0
+2450998161,REGISTRO,Clones,Fila de Análise,60.0
+2450998161,REGISTRO,Clones,Análise em Andamento,1.0
+2450998161,REGISTRO,Clones,Finalização,13.0
+2465322168,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,176.0
+2465322168,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,63.0
+2465322168,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+2511449192,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,184.0
+2511451194,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,184.0
+2511848160,REGISTRO,Clones,Fila de Análise,49.0
+2511848160,REGISTRO,Clones,Finalização,7.0
+2513901191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,177.0
+2513901191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,4.0
+2513901191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Exigência,80.0
+2513901191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise de Cumprimento de Exigência,161.0
+2513901191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+2513901191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,0.0
+2513901191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise de Cumprimento de Exigência,0.0
+2513901191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,5.0
+2513908198,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,177.0
+2513908198,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,251.0
+2513908198,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,5.0
+2513912196,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,177.0
+2513912196,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,251.0
+2513912196,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,5.0
+2513922193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,177.0
+2513922193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,251.0
+2513922193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,5.0
+2513924190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,177.0
+2513924190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,251.0
+2513924190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,5.0
+2513934197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,177.0
+2513934197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,251.0
+2513934197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,5.0
+2513970193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,177.0
+2513970193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,251.0
+2513970193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,5.0
+2513981199,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,177.0
+2513981199,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,251.0
+2513981199,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,5.0
+2513992194,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,177.0
+2513992194,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,251.0
+2513992194,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,5.0
+2518216191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,0.0
+2606035223,REGISTRO,Clones,Fila de Análise,9.0
+2606035223,REGISTRO,Clones,Análise em Andamento,0.0
+2606035223,REGISTRO,Clones,Finalização,5.0
+2606035223,REGISTRO,Clones,Análise em Andamento,0.0
+2606035223,REGISTRO,Clones,Finalização,4.0
+2606041228,REGISTRO,Clones,Fila de Análise,10.0
+2606041228,REGISTRO,Clones,Exigência,9.0
+2606041228,REGISTRO,Clones,Análise de Cumprimento de Exigência,77.0
+2606041228,REGISTRO,Clones,Finalização,1.0
+2606041228,REGISTRO,Clones,Análise em Andamento,0.0
+2606041228,REGISTRO,Clones,Análise de Cumprimento de Exigência,0.0
+2606041228,REGISTRO,Clones,Finalização,5.0
+2651394193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,170.0
+2651446190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,170.0
+2651499191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,170.0
+2651527190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,170.0
+2651539193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,170.0
+2651666197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,170.0
+2651777199,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,170.0
+2651823196,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,170.0
+2658094160,REGISTRO,Específicos,Fila de Análise,482.0
+2658094160,REGISTRO,Específicos,Análise em Andamento,46.0
+2658094160,REGISTRO,Específicos,Exigência,107.0
+2658094160,REGISTRO,Específicos,Análise de Cumprimento de Exigência,37.0
+2658094160,REGISTRO,Específicos,Análise em Andamento,4.0
+2658094160,REGISTRO,Específicos,Exigência,112.0
+2658094160,REGISTRO,Específicos,Análise de Cumprimento de Exigência,45.0
+2658094160,REGISTRO,Específicos,Finalização,38.0
+2662558161,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,178.0
+2662558161,RENOVAÇÃO,"Genéricos, Novos e Similares",Análise em Andamento,1846.0
+2662558161,RENOVAÇÃO,"Genéricos, Novos e Similares",Finalização,0.0
+2676727229,REGISTRO,Clones,Fila de Análise,21.0
+2676727229,REGISTRO,Clones,Finalização,11.0
+2714101202,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,28.0
+2718295219,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,143.0
+3069723209,REGISTRO,Genéricos e Similares,Fila de Análise,317.0
+3069723209,REGISTRO,Genéricos e Similares,Análise em Andamento,77.0
+3069723209,REGISTRO,Genéricos e Similares,Exigência,105.0
+3069723209,REGISTRO,Genéricos e Similares,Análise de Cumprimento de Exigência,89.0
+3069723209,REGISTRO,Genéricos e Similares,Análise em Andamento,5.0
+3069723209,REGISTRO,Genéricos e Similares,Finalização,7.0
+3155872201,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,515.0
+3245983191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3245983191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,22.0
+3245983191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Exigência,116.0
+3245983191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise de Cumprimento de Exigência,93.0
+3245983191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,2.0
+3245983191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Exigência,125.0
+3245983191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise de Cumprimento de Exigência,70.0
+3245983191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246035190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246035190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246035190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246127195,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246127195,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246127195,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246131193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246131193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246131193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246138191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246138191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246138191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246248194,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246248194,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246248194,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246252192,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246252192,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246252192,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246258191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246258191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246258191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246434197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246434197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246434197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246527191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246527191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246527191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246529197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246529197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246529197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246539194,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246539194,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246539194,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246609199,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246609199,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246609199,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246648190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246648190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246648190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246720196,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246720196,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246720196,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246823197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246823197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246823197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246831198,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246831198,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246831198,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3246908190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,157.0
+3246908190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Análise em Andamento,428.0
+3246908190,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Finalização,6.0
+3248899198,RENOVAÇÃO,"Genéricos, Novos e Similares",Fila de Análise,959.0
+3248899198,RENOVAÇÃO,"Genéricos, Novos e Similares",Outras Etapas,24.0
+3314008211,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,302.0
+3314008211,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,7.0
+3314008211,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Exigência,42.0
+3314008211,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise de Cumprimento de Exigência,8.0
+3314008211,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise em Andamento,0.0
+3314008211,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise de Cumprimento de Exigência,0.0
+3314008211,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Exigência,8.0
+3314008211,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise de Cumprimento de Exigência,7.0
+3394244197,PÓS-REGISTRO,"Genéricos, Novos e Similares - Maior complexidade",Fila de Análise,164.0
+3421868208,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,46.0
+3421868208,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Finalização,0.0
+3499466191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,54.0
+3499466191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,10.0
+3499466191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Análise em Andamento,0.0
+3499466191,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,6.0
+3499630193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,163.0
+3499630193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,5.0
+3499630193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Análise em Andamento,0.0
+3499630193,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,5.0
+3929711200,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,28.0
+3929711200,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,3.0
+3929711200,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+3929713206,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Fila de Análise,57.0
+3929713206,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Análise em Andamento,2.0
+3929713206,ROTULAGEM E NOME COMERCIAL ,Rotulagem e Nome Comercial,Finalização,0.0
+4459329215,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,58.0
+4459329215,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,7.0
+4459329215,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Análise em Andamento,0.0
+4459329215,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,3.0
+4488351210,REGISTRO,Clones,Fila de Análise,134.0
+4488351210,REGISTRO,Clones,Finalização,9.0
+4712538211,REGISTRO,Fitoterápicos,Fila de Análise,304.0
+4712538211,REGISTRO,Fitoterápicos,Análise em Andamento,22.0
+4712538211,REGISTRO,Fitoterápicos,Exigência,119.0
+4712538211,REGISTRO,Fitoterápicos,Análise de Cumprimento de Exigência,136.0
+4712538211,REGISTRO,Fitoterápicos,Finalização,7.0
+4737427216,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Fila de Análise,179.0
+4737427216,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Exigência,25.0
+4737427216,"Bula, Rotulagem e Nome Comercial","Análise de bula, dizeres de rotulagem e nome comercial",Análise de Cumprimento de Exigência,6.0
+4797216221,PÓS-REGISTRO,"Genéricos, Novos e Similares - Administrativo",Fila de Análise,257.0
+5055555220,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Fila de Análise,4.0
+5055555220,PÓS-REGISTRO,"Genéricos, Novos e Similares - Menor complexidade",Finalização,7.0
+5110724224,REGISTRO,Clones,Fila de Análise,13.0
+5110724224,REGISTRO,Clones,Finalização,11.0
