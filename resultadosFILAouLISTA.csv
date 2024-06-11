@@ -1,16 +1,17 @@
 Expediente,Fila ou Lista,"Area, fila e subfila",Posição Atual,Variação Posição
+0517108/23-3,Fila,Medicamento_CADIFA – Notificação_Registro - Notificação do Processo da CADIFA.csv,90,-123
+1052000/23-7,Fila,Medicamento_CADIFA – Notificação_Registro - Notificação do Processo da CADIFA.csv,152,-47
+0653219/24-5,Fila,Medicamento_REGISTRO_Genéricos e Similares.csv,56,-9
 0662553/23-3,Fila,Medicamento_CADIFA – Notificação_Pós-Registro - Notificação do Processo da CADIFA.csv,44,-57
 0639584/23-8,Fila,Medicamento_CADIFA – Notificação_Pós-Registro - Notificação do Processo da CADIFA.csv,40,-65
-0653219/24-5,Fila,Medicamento_REGISTRO_Genéricos e Similares.csv,54,-11
-0517108/23-3,Fila,Medicamento_CADIFA – Notificação_Registro - Notificação do Processo da CADIFA.csv,90,-123
-1052000/23-7,Fila,Medicamento_CADIFA – Notificação_Registro - Notificação do Processo da CADIFA.csv,153,-46
+5066647/22-8,Lista,Insumo Farmacêutico_CADIFA_Solicitação de CADIFA Associada  Associated CADIFA Application .csv,37,-101
 4659896/22-1,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,11,-236
 0331496/23-1,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,152,-168
 1031083/23-5,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,281,-94
 5097817/22-9,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,87,-198
 1052860/23-1,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,284,-95
-0665463/24-1,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,501,-1
-0665573/24-4,Lista,"Medicamento_Bula, Rotulagem e Nome Comercial_Análise de bula, dizeres de rotulagem e nome comercial.csv",42,-9
+0665463/24-1,Lista,Medicamento_REGISTRO_FIDR - Análise de Qualidade Registro.csv,500,-2
+0665573/24-4,Lista,"Medicamento_Bula, Rotulagem e Nome Comercial_Análise de bula, dizeres de rotulagem e nome comercial.csv",24,-27
 0998081/23-4,NA,NA,NA,NA
 0966319/23-3,NA,NA,NA,NA
 0139156/23-2,NA,NA,NA,NA
@@ -23,5 +24,4 @@ Expediente,Fila ou Lista,"Area, fila e subfila",Posição Atual,Variação Posi�
 0517178/23-4,NA,NA,NA,NA
 1052826/23-1,NA,NA,NA,NA
 0430141/23-8,NA,NA,NA,NA
-5066647/22-8,NA,NA,NA,NA
 0659799/24-8,NA,NA,NA,NA
